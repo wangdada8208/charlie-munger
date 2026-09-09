@@ -84,3 +84,31 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 31. "You get a little bit more mass, and you get a lollapalooza result." — UCSB Economics 2003 — https://fs.blog/great-talks/academic-economics-charlie-munger/
 
 32. "My sword I leave to him who can wear it." — USC Law 2007 — https://speakola.com/grad/charlie-munger-usc-law-school-2007
+
+---
+
+## Batch2 longform (2026-09-10)
+
+### Talks & essays (batch2)
+
+33. "prescription in Poor Richard: “If you want it done, go. If not, send.”" — FIRST-PARTY (Practical Thought 1996) — https://worldlypartners.com/wp-content/uploads/2024/01/1996-practical-thought-about-practical-thought.pdf
+
+34. "(vii) His first priority would be reservation of much time for quiet reading and thinking, particularly" — FIRST-PARTY (Vice Chairman 2014) — https://worldlypartners.com/wp-content/uploads/2024/01/2014-vice-chairmans-thoughts-past-and-future.pdf
+
+### Interviews (batch2)
+
+35. "Charlie: I read 3 or 4 newspapers when I get up in the morning, and I always have two or three books that I’m reading. I kind of go back and forth between them. And that’s what I do. That’s what I’ve done all my life." — CHARLIE MUNGER (DJCO Fireside 2017) — https://worldlypartners.com/wp-content/uploads/2024/01/2017-daily-journal-corp-post-annual-meeting-fireside-chat-with-charlie-munger-transcript-latticework-investing.pdf
+
+36. "Charlie: Well I took that because basically it was basically a losing hand and I play so many winning hands, so I thought, I should force myself to play a losing hand, and I must say it’s been very difficult." — CHARLIE MUNGER (DJCO Fireside 2017) — https://worldlypartners.com/wp-content/uploads/2024/01/2017-daily-journal-corp-post-annual-meeting-fireside-chat-with-charlie-munger-transcript-latticework-investing.pdf
+
+37. "A: Well, the world is very peculiar. And these people that like me are mostly nerds in China or India. It’s a very deep attachment. They’re so passionately interested in improving themselves. Some of them just want to get rich in some easy way, but mostly they’re trying to improve themselves." — CHARLIE MUNGER (WSJ 2019) — https://worldlypartners.com/wp-content/uploads/2024/01/2019-charlie-munger-unplugged-interview-with-wsj.pdf
+
+38. "Charlie: I was so ignorant in those days. I could have walked over and introduced myself and he would have been quite courteous with me. And he was a very great man, and I was too dumb to do it. It didn’t occur to me." — FIRST-PARTY (Caltech 2020) — https://worldlypartners.com/wp-content/uploads/2024/01/2020-charlie-munger-at-caltech.pdf
+
+39. "If you have a genius and you give them the power — you know, it's like that guy that wins all those swim tournaments, a big, tall guy. He had size 16 feet, and they were webbed. So no wonder he wins all the damn swim tournaments of the world." — CHARLIE MUNGER (Singleton/Combs 2022) — https://worldlypartners.com/wp-content/uploads/2024/01/2022-singleton-prize-for-ceo-excellence-charlie-munger-in-conversation-with-todd-combs.pdf
+
+### Berkshire meetings (batch2)
+
+40. "CHARLIE MUNGER: Well, I got two investments that come to mind. When I was young and poor, I spent a thousand dollars once buying an oil royalty that paid me 100,000 a year for a great many years. But I only did that once in a lifetime. On a later occasion, I bought a few shares of Belridge Oil, which went up 30 times rather quickly. But I turned down five times as much as I bought. It was the dumbest decision of my whole life. So, if any of you have made any dumb decisions, look up here and feel good about yourselves. (Laughter)" — CHARLIE MUNGER (BRK 2019) — https://finanzapedia.com/en/warren-buffett/annual-meetings/2019-berkshire-hathaway-annual-meeting
+
+41. "CHARLIE MUNGER: And we’re not the most flexible, probably, in the whole world. And of course, if something as extreme as this internet development happens, and you don’t catch it, why, other people are going to blow by you. And I don’t mind not having caught Amazon early. The guy is kind of a miracle worker. It’s very peculiar. I give myself a pass on that. But I feel like a horse’s ass for not identifying Google better. I think Warren feels the same way." — CHARLIE MUNGER (BRK 2019) — https://finanzapedia.com/en/warren-buffett/annual-meetings/2019-berkshire-hathaway-annual-meeting

@@ -55,3 +55,16 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Apple / short-term moves:** "I don't think the world would be improved by more comments from me on Apple." — DJCO 2019
 - **Semiconductors:** "What the hell do I know about semiconductors?" — DJCO 2023
 - **Not omniscient:** "I don't know enough to have any big opinion" on many topics — DJCO 2019
+
+---
+
+## Batch2 longform (2026-09-10)
+
+### Limits & incentives (batch2)
+
+- **Don’t outsource thinking outside your small territory; advisors’ incentives and subconscious bias will hurt you.:** "If, in your thinking, you rely entirely on others, often through purchase of professional advice, whenever outside a small territory of you…" — FIRST-PARTY (Practical Thought 1996) — https://worldlypartners.com/wp-content/uploads/2024/01/1996-practical-thought-about-practical-thought.pdf
+- **He foregrounds humility about expertise: no econ courses, no macro-forecasting income.:** "I should concede, at the outset, that “wealth effects” are part of the academic discipline of economics and that I have never taken a singl…" — FIRST-PARTY (Philanthropy Roundtable 2000) — https://worldlypartners.com/wp-content/uploads/2024/01/2000-talk-of-charlie-munger-to-breakfast-meeting-of-the-philanthropy-round-table.pdf
+- **Incentives plus commission pressure can drive grotesque sales behavior; don’t trust “salesmen” structures blindly.:** "I’m afraid that salesmen do have a wonderful incentive. On the other hand, what a salesman will do is just awful, if you give a man a famil…" — CHARLIE MUNGER (WSJ 2019) — https://worldlypartners.com/wp-content/uploads/2024/01/2019-charlie-munger-unplugged-interview-with-wsj.pdf
+- **Don’t pretend certainty on complex public-policy questions; be modest about what you know.:** "Warren, I don’t think we think we know the answer to all these questions about global warming and so forth. And the people who ask the ques…" — CHARLIE MUNGER (BRK 2021) — https://finanzapedia.com/en/warren-buffett/annual-meetings/2021-berkshire-hathaway-annual-meeting
+- **Share repurchases are immoral if done to “bull it higher”; moral if fair to existing shareholders.:** "Well, if you’re repurchasing stock, just a bull it higher, it’s deeply immoral. But if you’re repurchasing stock because it’s a fair thing…" — CHARLIE MUNGER (BRK 2021) — https://finanzapedia.com/en/warren-buffett/annual-meetings/2021-berkshire-hathaway-annual-meeting
+- **Simple estate planning: just hold the stock.:** "Well, at Berkshire we have a simple problem of estate planning. Just hold the goddamn stock. (Laughter)" — CHARLIE MUNGER (BRK 2023) — https://finanzapedia.com/en/warren-buffett/annual-meetings/2023-berkshire-hathaway-annual-meeting
