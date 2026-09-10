@@ -79,3 +79,10 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Won’t buy literal toll bridge—don’t look like monopolist:** "Charlie: [00:28:21] A literal toll bridge, and then we decided that we didn't want to look like a goddamn monopolist. And besides, we just sold and moved on to something less mo…" — CHARLIE MUNGER (Collison/Colossus 2023) — https://colossus.com/episode/munger-a-conversation-with-charlie-munger-john-collison/
 - **No edge in pharma—won’t play experts’ game:** "Why in the hell would I play against other people in a game where they're much better at it than I am...”" — CHARLIE MUNGER (Collison/Colossus 2023) — https://colossus.com/episode/munger-a-conversation-with-charlie-munger-john-collison/
 
+
+## Incremental 2026-09-11
+
+- **Coke × cannabis:** Keep wholesome brands away from recreational drugs — "Because it's such a wholesome brand and associated with happiness. Why do we want to associate it with a recreational drug?" — Yahoo Influencers 2019 — https://finance.yahoo.com/news/influencers-transcript-charlie-munger-105001910.html
+- **Diligence theater:** "the weaker they are as thinkers the more diligence they do" — Redlands Forum 2020 — https://jwwvalue.blogspot.com/2020/07/charlie-munger-at-redlands-forum-272020.html
+- **Removable ignorance = treachery:** Citing Dr. Johnson on academic ignorance removable by diligence — "To Dr. Johnson, such conduct was \"treachery.\"" — Harvard Law 1998 — https://www.stripe.press/poor-charlies-almanack/talk-five
+- **Narrow lawyers:** "Lawyers who only know a mass of legal doctrine and very little about the disciplines that are intertwined with that doctrine are a menace to the wider civilization." — Stanford Lawyer 2009 — https://law.stanford.edu/stanford-lawyer/articles/qa-legal-matters-with-charles-t-munger/

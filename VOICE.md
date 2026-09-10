@@ -157,3 +157,13 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 73. "Charlie: [00:22:49] You can't go to Costco just to buy bottle of iodine, just drop in. You got to be a member and then you got to pay enough, so to an ordinary person, they’re not going to pay an extra $100 to buy a bottle of iodine or something. We keep the peach pickers, the little buyers out." — CHARLIE MUNGER (Collison/Colossus 2023) — https://colossus.com/episode/munger-a-conversation-with-charlie-munger-john-collison/
 74. "a mine is a hole in the ground with a liar on top." — FIRST-PARTY (WSJ Ban Crypto 2023) — https://worldlypartners.com/wp-content/uploads/2024/01/2023-why-america-should-ban-crypto.pdf
 
+
+## Incremental conversational (Yahoo 2019 / Redlands 2020)
+
+75. "Yeah, a good cult. Yeah, it's a good cult." — Yahoo Influencers 2019 — https://finance.yahoo.com/news/influencers-transcript-charlie-munger-105001910.html
+
+76. "when people use the word \"common sense,\" what they mean is uncommon sense. Because the standard human condition is ignorance and stupidity." — Yahoo Influencers 2019 — same URL
+
+77. "I think the meetings work better if they're spontaneous. If we were scripting things, I don't think people would like it." — Yahoo Influencers 2019 — same URL
+
+78. "oh that's not the question that most field would ask but I want to know what's the easiest way to kill them would be so I could avoid it" — Redlands Forum 2020 (unofficial transcript; Air Corps inversion story) — https://jwwvalue.blogspot.com/2020/07/charlie-munger-at-redlands-forum-272020.html

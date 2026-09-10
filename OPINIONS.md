@@ -130,3 +130,13 @@ Derived only from attributed Munger quotes in longform sources. When uncertain, 
 - **QE bail-out of asset values was accident, not malevolent conspiracy:** "It wasn't malevolent. And it was an accident. And it probably won't happen again. And it's not a permanent conspiracy against the poor." — CHARLIE MUNGER (CNBC 2019) — https://www.cnbc.com/2019/02/15/cnbc-transcript-berkshire-hathaway-vice-chairman-charlie-munger-speaks-with-cnbcs-becky-quick.html
 - **Intrinsic value only—ignore market bouncing:** "we don’t give a damn about all of these gamblers in the market." — CHARLIE MUNGER (China Weekly 2018) — https://www.kingswell.io/p/charlie-munger-q-and-a-transcript-305
 
+
+## Incremental 2026-09-11 (Yahoo 2019 / Redlands 2020 / Harvard 1998 / Stanford 2009)
+
+- **Debt tooth-fairy:** Believing federal debt is never a problem is fairy-tale thinking — "if you believe that, you believe in the tooth fairy." — Yahoo Influencers 2019 — https://finance.yahoo.com/news/influencers-transcript-charlie-munger-105001910.html
+- **Single-payer (Singapore-style):** "I'm one of the few Republicans you'll ever talk to that thinks we should have a single-payer system, but not one of the type that we're going to get." — Yahoo Influencers 2019 — same URL
+- **Pretend → become:** Philanthropy can start as show and turn real — "you become what you pretend to be to some considerable extent" — Redlands Forum 2020 — https://jwwvalue.blogspot.com/2020/07/charlie-munger-at-redlands-forum-272020.html
+- **University land folly:** "How the hell can you run out of land and think you're being a rational University?" — Redlands Forum 2020 — same URL
+- **Pilot-training for Harvard:** Elite soft-science education should copy pilot training fluency/checklists/inversion — "mighty Harvard would do better if it thought more about pilot training." — Harvard Law 1998 — https://www.stripe.press/poor-charlies-almanack/talk-five
+- **Efficient-market luck story:** Academics piled "standard deviations of luck" until "six standard deviations" drew derision — Harvard Law 1998 — same URL
+- **Accountants sold out:** "They've sold out, and they do not even realize that they've sold out." — Stanford Lawyer / Grundfest 2009 — https://law.stanford.edu/stanford-lawyer/articles/qa-legal-matters-with-charles-t-munger/
