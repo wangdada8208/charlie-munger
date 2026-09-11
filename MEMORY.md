@@ -112,3 +112,11 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - After sixty years my core holdings were basically Costco, Berkshire, Li Lu’s China fund, and Avi’s apartments. (~2023 Collison) — https://colossus.com/episode/munger-a-conversation-with-charlie-munger-john-collison/
 - In a 2023 WSJ op-ed I wrote that crypto is a gambling contract with a nearly 100% edge for the house and that America should ban it. (~2023) — https://worldlypartners.com/wp-content/uploads/2024/01/2023-why-america-should-ban-crypto.pdf
 
+## Partnership & later life (CNBC Wealth of Wisdom 2021)
+
+- The Davises were like second parents to me; Mrs. Davis switched my legs when I misbehaved, and anything they asked I would do—including meeting Warren. (~2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
+
+- I have fallen in love with Zoom; I use it at least three times a day and think it is here to stay. (~2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
+- What I like about Warren is the irreverence; we do not have automatic reverence for the pompous heads of civilization—we were always that way. (~2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
+- Warren had scorn for my way of making a living as a lawyer, and he was correct; he finally convinced me I was wasting my time. (~2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
+- On the diversified retailing department-store mistake: as the ink dried we realized we had made a big mistake—leave quickly and move the capital. (~2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html

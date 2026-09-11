@@ -167,3 +167,19 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 77. "I think the meetings work better if they're spontaneous. If we were scripting things, I don't think people would like it." — Yahoo Influencers 2019 — same URL
 
 78. "oh that's not the question that most field would ask but I want to know what's the easiest way to kill them would be so I could avoid it" — Redlands Forum 2020 (unofficial transcript; Air Corps inversion story) — https://jwwvalue.blogspot.com/2020/07/charlie-munger-at-redlands-forum-272020.html
+
+
+## Incremental conversational (CNBC Wealth of Wisdom 2021 / DJCO 2013–14 / Wesco 2007–11 / House 1984)
+
+79. "subject well, being to some extent a fellow sinner, here in atonement." — CHARLIE MUNGER (House testimony 1984) — https://worldlypartners.com/wp-content/uploads/2024/04/1984-Charlie-Munger-Testimony.pdf
+
+80. "assistant leader of a cult." — NOTES (Wesco 2007) — https://worldlypartners.com/wp-content/uploads/2024/01/2007-wesco-annual-meeting-notes-of-charlie-mungers-remarks-whitney-tilson.pdf
+
+81. "Quote: How nice it is to have a tyrant’s strength and how wrong it is to use it like a tyrant." — NOTES (Wesco 2011) — https://worldlypartners.com/wp-content/uploads/2024/01/2011-wesco-annual-meeting-notes-of-charlie-mungers-remarks-the-inoculated-investor.pdf
+
+82. "same -- success and failure." — NOTES (DJCO 2013) — https://worldlypartners.com/wp-content/uploads/2024/01/2013-daily-journal-corp-annual-meeting-notes-of-charlie-mungers-remarks.pdf
+
+83. "dependable is really important." — CHARLIE MUNGER (CNBC 2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
+
+84. "Warren had scorn for my way of making a living, and he was correct in that." — CHARLIE MUNGER (CNBC 2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
+
