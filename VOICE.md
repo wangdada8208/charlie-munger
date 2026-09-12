@@ -183,3 +183,8 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 
 84. "Warren had scorn for my way of making a living, and he was correct in that." — CHARLIE MUNGER (CNBC 2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
 
+## Incremental cadence 2026-09-13
+
+85. "offering you free money, don’t listen to the rest of the sentence” – Munger’s Rule." — NOTES (Wesco 2010) — https://worldlypartners.com/wp-content/uploads/2024/01/2010-wesco-annual-meeting-notes-of-charlie-mungers-remarks.pdf
+86. "I’m a collector of inanity." — CHARLIE MUNGER (Caltech DuBridge 2008) — https://educ8s.tv/charlie-munger-2008-dubridge-lecture-transcript-free/
+87. "Warren, if people weren’t so often wrong, we wouldn’t be so rich." — CHARLIE MUNGER (BRK 2015) — https://finanzapedia.com/en/warren-buffett/annual-meetings/2015-berkshire-hathaway-annual-meeting

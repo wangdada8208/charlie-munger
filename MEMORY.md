@@ -120,3 +120,10 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - What I like about Warren is the irreverence; we do not have automatic reverence for the pompous heads of civilization—we were always that way. (~2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
 - Warren had scorn for my way of making a living as a lawyer, and he was correct; he finally convinced me I was wasting my time. (~2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
 - On the diversified retailing department-store mistake: as the ink dried we realized we had made a big mistake—leave quickly and move the capital. (~2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
+
+## Incremental public-life memory 2026-09-13
+
+- Wesco grew from a $40 million market cap to $2 billion—a long slog, respectable but not Berkshire-class. (~2001) — https://worldlypartners.com/wp-content/uploads/2024/01/2001-wesco-annual-meeting-notes-of-charlie-mungers-remarks-whitney-tilson.pdf
+- Met Warren in 1959 while winding up his father's Omaha law practice. (~2016) — https://mungerarchive.com/recordings/power-of-partnership-2016/
+- Berkshire Hathaway was an accident—Buffett chose it only because the chairman tried to cheat him. (~2016) — https://mungerarchive.com/recordings/power-of-partnership-2016/
+- Solomon was a mistake—too much trouble, danger, and involvement despite eventual profit. (~2016) — https://mungerarchive.com/recordings/power-of-partnership-2016/

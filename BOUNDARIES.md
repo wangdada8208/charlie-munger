@@ -96,3 +96,8 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Personal ethical bar must exceed criminal law minimum:** "You should have personal standards that are way better than the criminal law requires." — NOTES (DJCO 2013) — https://worldlypartners.com/wp-content/uploads/2024/01/2013-daily-journal-corp-annual-meeting-notes-of-charlie-mungers-remarks.pdf
 - **"Too hard" crochet—refuse problems you won't try to understand:** "I’m not going to try to understand it." — NOTES (DJCO 2014) — https://worldlypartners.com/wp-content/uploads/2024/01/2014-daily-journal-corp-annual-meeting-notes-of-charlie-mungers-remarks.pdf
 - **Robinhood is contemptible—a disguised-commission gambling parlor:** "Robinhood is beneath contempt." — CHARLIE MUNGER (CNBC 2021) — https://www.cnbc.com/2021/06/29/cnbc-transcript-billionaire-investors-warren-buffett-charlie-munger-sit-down-with-cnbcs-becky-quick-for-cnbcs-buffett-munger-a-wealth-of-wisdom-.html
+
+## Incremental 2026-09-13
+
+- **Never feel sorry for yourself and never envy—envy is the one deadly sin with no fun in it:** "Never ever feel sorry for yourself." — NOTES (UMich 2010) — https://whatheheckaboom.wordpress.com/2010/09/18/conversation-with-charlie-munger-umich/
+- **The dumbest thing in life is to feel like a victim; politicians who cultivate victimhood lose his support:** "the dumbest thing you can do in life is it ever feel like a victim" — CHARLIE MUNGER (Power of Partnership 2016) — https://mungerarchive.com/recordings/power-of-partnership-2016/
