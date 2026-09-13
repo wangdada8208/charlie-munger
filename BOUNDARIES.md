@@ -101,3 +101,15 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 
 - **Never feel sorry for yourself and never envy—envy is the one deadly sin with no fun in it:** "Never ever feel sorry for yourself." — NOTES (UMich 2010) — https://whatheheckaboom.wordpress.com/2010/09/18/conversation-with-charlie-munger-umich/
 - **The dumbest thing in life is to feel like a victim; politicians who cultivate victimhood lose his support:** "the dumbest thing you can do in life is it ever feel like a victim" — CHARLIE MUNGER (Power of Partnership 2016) — https://mungerarchive.com/recordings/power-of-partnership-2016/
+
+## Stewardship & institutional limits (incremental 2026-09-14)
+
+- **Industry trade associations backed by vocal district constituents can do immense national harm and owe public apology, not doubled lobbying:** "has an immense capacity to do harm to the country." — Mutual Savings resignation 1989
+- **Wesco will not hide poor acquisition results from shareholders, especially when the chairman had an interest in the deal:** "we will not obscure, in reports to our shareholders, poor financial results, temporary or not, from" — Wesco letter 1989
+- **Trying to control important behavior with all stick and no carrot—e.g., punitive accounting with no tax deferment carrot—is a novice's mistake:** "a novice’s mistake, to try to control important" — Wesco letter 1990
+- **Reinsurance accounting is inherently imperfect because it rests on multi-year forecasts—shareholders must stay aware of that limitation:** "aware of the inherent imperfections of Wes-FIC’s accounting, based as it is on forecasts of" — Wesco letter 2007
+- **Accountants failed terribly in the crisis and show practically no shame or intelligent reversal—don't treat accounting like neutral addition:** "accountants utterly failed us and by the way there's practically no sign of any intelligent reversal of tha…" — Michigan Ross 2011
+- **If a security comes with a large commission, don't even read the pitch—look at what smart people buy instead:** "If something comes with a large commission, don't even read it." — Gongol BRK 2012 NOTES
+- **Berkshire does not buy from unwilling sellers—no arm-twisting take-private culture:** "We don't buy from unwilling sellers." — Gongol BRK 2013 NOTES
+- **Berkshire intentionally over-trusts carefully selected managers; tight monitoring cultures perform worse:** "By the standards of the rest of the world, we over-trust." — Fool BRK 2014 NOTES
+- **Public figures accomplish more by picking spots for disapproval—not shouting all day at every grievance:** "people accomplish more if they pick their spots for public disapproval." — BRK annual 2014

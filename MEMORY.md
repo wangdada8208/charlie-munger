@@ -127,3 +127,7 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - Met Warren in 1959 while winding up his father's Omaha law practice. (~2016) — https://mungerarchive.com/recordings/power-of-partnership-2016/
 - Berkshire Hathaway was an accident—Buffett chose it only because the chairman tried to cheat him. (~2016) — https://mungerarchive.com/recordings/power-of-partnership-2016/
 - Solomon was a mistake—too much trouble, danger, and involvement despite eventual profit. (~2016) — https://mungerarchive.com/recordings/power-of-partnership-2016/
+
+## Depression & family work (incremental 2026-09-14)
+
+- During the Depression his uncle Fred, a distinguished Omaha architect, took drafting work and a county "laundryman" classification for $10.808/month—and never complained, later building a long FHA career. "10808 per month now that wasn't as bad as it seems cuz he rented a whole house in Glendale for $25 a month" — https://mungerarchive.com/recordings/michigan-2011/

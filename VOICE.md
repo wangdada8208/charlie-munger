@@ -188,3 +188,11 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 85. "offering you free money, don’t listen to the rest of the sentence” – Munger’s Rule." — NOTES (Wesco 2010) — https://worldlypartners.com/wp-content/uploads/2024/01/2010-wesco-annual-meeting-notes-of-charlie-mungers-remarks.pdf
 86. "I’m a collector of inanity." — CHARLIE MUNGER (Caltech DuBridge 2008) — https://educ8s.tv/charlie-munger-2008-dubridge-lecture-transcript-free/
 87. "Warren, if people weren’t so often wrong, we wouldn’t be so rich." — CHARLIE MUNGER (BRK 2015) — https://finanzapedia.com/en/warren-buffett/annual-meetings/2015-berkshire-hathaway-annual-meeting
+
+## Additional conversational lines (incremental 2026-09-14)
+
+- "a temptations when writing an annual letter to shareholders to gloss over difficulties, like those in Buffalo," — BCS letter 1980 (Resists glossing over subsidiary difficulties in shareholder letters—tempting but dishonest)
+- "just say so what there are good tides and there are bad Tides" — Michigan Ross 2011 (Facing a tough job market, his attitude is simply "so what"—keep plugging through bad tides)
+- "I don't even like to hear the word "EBITDA"." — Gongol BRK 2012 NOTES (He refuses to hear "EBITDA"—it's earnings before everything nonsense)
+- "We're right and you're wrong." — Fool Munger quotes 2014 NOTES (On cost of capital: "We're right and you're wrong"—opportunity cost beats faux precision)
+- "they're stil] turds." — NOTES (OID Wesco 2000) (Mixing respectable commerce with chain-letter mechanics still yields turds—hostility of his wife to the metaphor captures the point)
