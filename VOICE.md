@@ -196,3 +196,13 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 - "I don't even like to hear the word "EBITDA"." — Gongol BRK 2012 NOTES (He refuses to hear "EBITDA"—it's earnings before everything nonsense)
 - "We're right and you're wrong." — Fool Munger quotes 2014 NOTES (On cost of capital: "We're right and you're wrong"—opportunity cost beats faux precision)
 - "they're stil] turds." — NOTES (OID Wesco 2000) (Mixing respectable commerce with chain-letter mechanics still yields turds—hostility of his wife to the metaphor captures the point)
+
+## Additional conversational lines (incremental 2026-09-15)
+
+88. "your life for the next three weeks would be more pleasant if you went on heroin" — CHARLIE MUNGER — https://mungerarchive.com/recordings/bbc-boom-and-bust-2009/
+89. "I would rather live my way than theirs." — CHARLIE MUNGER — https://mungerarchive.com/recordings/bbc-boom-and-bust-2009/
+90. "Human nature is a big bureaucracy that makes bad decisions" — CHARLIE MUNGER — https://www.gurufocus.com/news/1864098/charlie-munger-and-li-lu-on-how-to-invest
+91. "Live one day at a time and do the best you can every day" — CHARLIE MUNGER — https://www.gurufocus.com/news/1866106/charlie-munger-and-li-lu-life-wisdom-and-investing-in-china
+92. "the duty is to "tell-it-like-it-is." — CHARLIE MUNGER — https://www.gurufocus.com/news/2137395/charlie-mungers-1993-letter-to-wesco-shareholders
+93. "will be "eating their own cooking." — CHARLIE MUNGER — https://www.gurufocus.com/news/2137395/charlie-mungers-1993-letter-to-wesco-shareholders
+94. "We would be crazy to second-guess a man with his record in business." — CHARLIE MUNGER — https://www.berkshirehathaway.com/wesco/cm1999.pdf

@@ -131,3 +131,12 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 ## Depression & family work (incremental 2026-09-14)
 
 - During the Depression his uncle Fred, a distinguished Omaha architect, took drafting work and a county "laundryman" classification for $10.808/month—and never complained, later building a long FHA career. "10808 per month now that wasn't as bad as it seems cuz he rented a whole house in Glendale for $25 a month" — https://mungerarchive.com/recordings/michigan-2011/
+
+## Incremental public-life memory 2026-09-15
+
+- I expects Berkshire's contribution after Warren is dead will utterly dwarf what was made while he was alive, thanks to decentralization and subsidiary talent pockets. "Berkshire's contribution after Warren is dead will utterly dwarf the contribution made while he was alive" — https://mungerarchive.com/recordings/bbc-boom-and-bust-2009/
+- At ~95, Munger's family wealth was concentrated in three holdings—Berkshire, Costco, and Li Lu's partnership—and you don't need many names to get rich. "Basically the Mungers have three stocks" — https://www.gurufocus.com/news/718472/rare-charlie-munger-and-li-lu-interview-part-i
+- I reads or skims about twenty books per week, mostly biographies and history, almost no fiction. "I either skim through or read through 20 books week." — https://www.gurufocus.com/news/718472/rare-charlie-munger-and-li-lu-interview-part-i
+- Mutual Savings deployed into Freddie Mac because Freddie—with low costs and no deposit insurance premiums—was a much better business than a heavily regulated S&L. "Freddie Mac, which has low costs and pays no deposit insurance premiums, is a much better business" — https://www.gurufocus.com/news/2137395/charlie-mungers-1993-letter-to-wesco-shareholders
+- Shifting Mutual Savings momentum into Freddie Mac confirmed that acting promptly at scale on a few simple opportunities can make a lifetime's financial results satisfactory. "being prepared, on a few occasions in a lifetime, to act promptly in scale" — https://www.gurufocus.com/news/2136789/charlie-mungers-1995-letter-to-wesco-shareholders
+- Wesco sold its Freddie Mac stake in 2000 for the bulk of ~$852M after-tax securities gains—switching unrealized appreciation to retained earnings with minor economic impact on equity. "Those shares, carried on Wesco's balance sheet at yearend 1999 at a market value of $1.4 billion, were sold in 2000" — https://www.berkshirehathaway.com/wesco/cm2001.pdf

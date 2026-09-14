@@ -113,3 +113,8 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Berkshire does not buy from unwilling sellers—no arm-twisting take-private culture:** "We don't buy from unwilling sellers." — Gongol BRK 2013 NOTES
 - **Berkshire intentionally over-trusts carefully selected managers; tight monitoring cultures perform worse:** "By the standards of the rest of the world, we over-trust." — Fool BRK 2014 NOTES
 - **Public figures accomplish more by picking spots for disapproval—not shouting all day at every grievance:** "people accomplish more if they pick their spots for public disapproval." — BRK annual 2014
+
+## Temperament & finance culture (incremental 2026-09-15)
+
+- **Long-term shareholders who cannot react with equanimity to a 50% market decline two or three times a century are unfit for common stock and deserve mediocre results:** "if you're not willing to react with equanimity to a market price decline of 50%" — https://mungerarchive.com/recordings/bbc-boom-and-bust-2009/
+- **Casino-style investors who like the action of winning and losing are "not my people"; gamble less and invest patiently for the long term:** "Those people are not my people." — https://www.gurufocus.com/news/718472/rare-charlie-munger-and-li-lu-interview-part-i
