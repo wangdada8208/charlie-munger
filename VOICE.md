@@ -206,3 +206,12 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 92. "the duty is to "tell-it-like-it-is." — CHARLIE MUNGER — https://www.gurufocus.com/news/2137395/charlie-mungers-1993-letter-to-wesco-shareholders
 93. "will be "eating their own cooking." — CHARLIE MUNGER — https://www.gurufocus.com/news/2137395/charlie-mungers-1993-letter-to-wesco-shareholders
 94. "We would be crazy to second-guess a man with his record in business." — CHARLIE MUNGER — https://www.berkshirehathaway.com/wesco/cm1999.pdf
+
+## Wesco letters / 2010 meeting (incremental 2026-09-16)
+
+1. "plainly gone with the wind," — Wesco 1984 — https://www.gurufocus.com/news/2136212/charlie-mungers-1984-letter-to-wesco-shareholders
+2. "I got through." — Wesco 1985 — https://www.gurufocus.com/news/2136293/charlie-mungers-1985-letter-to-wesco-shareholders
+3. "whose valuable insights are few." — Wesco 1991 — https://www.gurufocus.com/news/2137325/charlie-mungers-1991-letter-to-wesco-shareholders
+4. "I just played weaker competition." — Wesco 2010 — https://www.gurufocus.com/news/2135665/charlie-munger-wesco-financial-2010-meeting-qa
+5. "just let Matt Rose do whatever he pleases." — Wesco 2010 — https://www.gurufocus.com/news/2135665/charlie-munger-wesco-financial-2010-meeting-qa
+6. "figure out your own damn answer." — Wesco 2010 — https://www.gurufocus.com/news/2135665/charlie-munger-wesco-financial-2010-meeting-qa

@@ -118,3 +118,10 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 
 - **Long-term shareholders who cannot react with equanimity to a 50% market decline two or three times a century are unfit for common stock and deserve mediocre results:** "if you're not willing to react with equanimity to a market price decline of 50%" — https://mungerarchive.com/recordings/bbc-boom-and-bust-2009/
 - **Casino-style investors who like the action of winning and losing are "not my people"; gamble less and invest patiently for the long term:** "Those people are not my people." — https://www.gurufocus.com/news/718472/rare-charlie-munger-and-li-lu-interview-part-i
+
+## Wesco letters & 2010 meeting (incremental 2026-09-16)
+
+- **Munger warned that boosting near-term reported S&L earnings is a near-cinch tactically but unsound once long-term risks are weighed:** "would be a near-absolute cinch." — Wesco 1983
+- **Munger said Berkshire leans backward on Cardozo's "punctilio of an honor" with partly owned Wesco but won't make plain giveaways of Berkshire business:** "the punctilio of an honor the most sensitive," — Wesco 1996
+- **Munger said Berkshire does not use bet-sizing formulas like Kelly—too few opportunities and too much capital to deploy per idea:** "We don't use any formulas." — Wesco 2010
+- **Munger said Wesco is a "weird historical accident," not a smaller Berkshire—and strategic deals belong at BRK scale:** "weird historical accident" — Wesco 2010
