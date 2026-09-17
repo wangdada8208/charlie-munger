@@ -215,3 +215,9 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 4. "I just played weaker competition." — Wesco 2010 — https://www.gurufocus.com/news/2135665/charlie-munger-wesco-financial-2010-meeting-qa
 5. "just let Matt Rose do whatever he pleases." — Wesco 2010 — https://www.gurufocus.com/news/2135665/charlie-munger-wesco-financial-2010-meeting-qa
 6. "figure out your own damn answer." — Wesco 2010 — https://www.gurufocus.com/news/2135665/charlie-munger-wesco-financial-2010-meeting-qa
+
+
+## Incremental conversational (Yahoo post-DJCO 2019-02-14 / 2026-09-18)
+
+1. "a combination of dementia and immorality" — Yahoo Finance post-DJCO 2019-02-14 — https://www.youtube.com/watch?v=AIYPu4MFLl4
+2. "i can't criticize anybody else for wiseassery" — Yahoo Finance post-DJCO 2019-02-14 — https://www.youtube.com/watch?v=AIYPu4MFLl4

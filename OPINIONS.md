@@ -312,3 +312,18 @@ Derived only from attributed Munger quotes in longform sources. When uncertain, 
 - **Munger called casualty insurance intrinsically difficult and said people delude themselves to maintain volume; he wouldn't seek investments there except rare cases:** "Casualty insurance is intrinsically a very diﬃcult business." — Wesco 2010
 - **Munger lamented opportunity cost when bright Caltech/MIT graduates enter finance instead of science:** "there's a loss to civilization when bright people go into money-grubbing instead of science." — Wesco 2010
 - **Munger said both 80/20 profit-focus and cheap-fix-the-laggards models can be correct—you need multiple models:** "They're both correct. You need multiple models." — Wesco 2010
+
+
+## Yahoo Finance post-DJCO (incremental 2026-09-18)
+
+- **Munger is nearly a free-trade purist but not an absolute one—he would draw a line so the entire U.S. steel industry does not move offshore.:** "you don't want to be such an absolute purist for free trade" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger welcomes China's rise and does not resent competitive displacement when Chinese firms simply make better, cheaper products.:** "the chinese broke the berkshire hathaway shoe business in maine" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger holds that no advanced civilization can evolve without hurting somebody somewhere—creative destruction is unavoidable.:** "there's no way to make an advanced civilization never hurt anybody" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger sees BYD's edge in hybrids and electrics near the cutting edge of battery technology—they should emphasize those over gasoline cars.:** "so close to the cutting edge of battery technology" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger credits Tesla with already exceeding predicted significance; Musk is bold, brilliant, swings for the fences, with real odds of both major success and quick failure.:** "its founder is bold and brilliant and swings for the fences" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger believes national Kaiser-style care as practiced in California would materially raise U.S. medicine quality; entrenched vested interests block Kaiser from spreading.:** "if everybody in the nation had kaiser healthcare as we have it in california" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger cites Singapore's system as roughly one-fifth U.S. cost with better service—easier because fewer entrenched interests and a brilliant leader.:** "the sampler system cost about a fifth to what ours cost and serves better" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger defines all intelligent investing as value investing; the first rule is to fish where the fish are—find pockets with many undervalued opportunities.:** "the first rule of fishing is to fish where the fish are" — Yahoo Finance post-DJCO 2019-02-14
+- **As competition intensifies, Munger says Berkshire must fish in places it did not fish before—Apple being a less familiar but still value-based bet.:** "as the world gets tougher you have to fish in places you didn't fish before" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger grants bitcoin's computer-science achievement but rejects it as a speculative medium with no intrinsic value—anti-social and immoral.:** "the computer science behind that's behind behind bitcoin is a great triumph for the human mind" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger has deliberately mellowed his political hatred as counterproductive self-discipline and rereads Gibbon to feel better about the present.:** "i consider it counterproductive to hate as much as both parties now hate" — Yahoo Finance post-DJCO 2019-02-14

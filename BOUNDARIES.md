@@ -125,3 +125,9 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Munger said Berkshire leans backward on Cardozo's "punctilio of an honor" with partly owned Wesco but won't make plain giveaways of Berkshire business:** "the punctilio of an honor the most sensitive," — Wesco 1996
 - **Munger said Berkshire does not use bet-sizing formulas like Kelly—too few opportunities and too much capital to deploy per idea:** "We don't use any formulas." — Wesco 2010
 - **Munger said Wesco is a "weird historical accident," not a smaller Berkshire—and strategic deals belong at BRK scale:** "weird historical accident" — Wesco 2010
+
+
+## Bitcoin / payment systems (incremental 2026-09-18)
+
+- **Munger puts bitcoin trading in the same moral category as trafficking in freshly harvested baby brains—almost as bad, with no desirable social purpose.:** "suppose you could make a lot of money trading freshly harvested baby brains would you do it" — Yahoo Finance post-DJCO 2019-02-14
+- **Munger treats bitcoin promotion as beneath a decent person—we already have payment systems (e.g., WeChat); volatile-token payments are absurd.:** "some things that are beneath you you just don't do and this is one" — Yahoo Finance post-DJCO 2019-02-14

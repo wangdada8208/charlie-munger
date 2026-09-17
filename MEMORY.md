@@ -145,3 +145,10 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 
 - **Munger joined Salomon's board in 1987 and expressed pleasure with the association after the Black Monday crash:** "are very pleased with the new association." — Wesco 1987 — https://www.gurufocus.com/news/2138111/charlie-mungers-1987-letter-to-wesco-shareholders
 - **Munger decided in 1992 to exit Mutual Savings' regulated thrift status to move assets into a lower-cost, higher-flexibility insurance structure:** "from a high-cost, low-­flexibility environment to a low-cost, high-flexibility environment." — Wesco 1992 — https://www.gurufocus.com/news/2137393/charlie-mungers-1992-letter-to-wesco-shareholders
+
+
+## Yahoo Finance post-DJCO (incremental 2026-09-18)
+
+- **Munger expects Berkshire is unlikely to buy whole great Chinese companies but very likely to be invited into minority stakes in admired firms—and already holds BYD.:** "we own a minority position in byd" — Yahoo Finance post-DJCO 2019-02-14 — https://www.youtube.com/watch?v=AIYPu4MFLl4
+- **Munger frames the Berkshire–JPMorgan–Amazon healthcare effort as public service inspired by Rockefeller's medical reform—not primarily a profit hunt.:** "none of them would be doing this just to make money this is a public service activity" — Yahoo Finance post-DJCO 2019-02-14 — https://www.youtube.com/watch?v=AIYPu4MFLl4
+- **Munger says Berkshire would not have bought Apple without a young investor (Combs or Weschler) steering them—though Warren made the final call.:** "we would not have bought that apple stock stock if one of the young investors had not steered us that way" — Yahoo Finance post-DJCO 2019-02-14 — https://www.youtube.com/watch?v=AIYPu4MFLl4
