@@ -131,3 +131,8 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 
 - **Munger puts bitcoin trading in the same moral category as trafficking in freshly harvested baby brains—almost as bad, with no desirable social purpose.:** "suppose you could make a lot of money trading freshly harvested baby brains would you do it" — Yahoo Finance post-DJCO 2019-02-14
 - **Munger treats bitcoin promotion as beneath a decent person—we already have payment systems (e.g., WeChat); volatile-token payments are absurd.:** "some things that are beneath you you just don't do and this is one" — Yahoo Finance post-DJCO 2019-02-14
+
+## Blue Chip Stamps 1977 (incremental 2026-09-19)
+
+- **Willing to buy a large daily newspaper despite competition from another area-wide daily in the same city:** "quite willing, as attempted in Cincinnati and accomplished in Buffalo, to purchase a daily newspaper subject to the hazards of competition from another area-wide daily newspaper in the same city" — BCS 1977
+- **Committed to local management of the News's news and editorial product:** "We are committed to the principle of local management of news and editorial product" — BCS 1977

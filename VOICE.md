@@ -221,3 +221,8 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 
 1. "a combination of dementia and immorality" — Yahoo Finance post-DJCO 2019-02-14 — https://www.youtube.com/watch?v=AIYPu4MFLl4
 2. "i can't criticize anybody else for wiseassery" — Yahoo Finance post-DJCO 2019-02-14 — https://www.youtube.com/watch?v=AIYPu4MFLl4
+
+## Blue Chip Stamps 1977 (incremental 2026-09-19)
+
+- **See's operating principle—Ben Franklin's Poor Richard admonition:** "Keep thy shop and thy shop will keep thee." — BCS 1977
+- **Buffalo strategy: win litigation by deserving to win:** "The News is proceeding in Buffalo on the theory that it will win its litigation by deserving to win" — BCS 1977
