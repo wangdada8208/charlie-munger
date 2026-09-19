@@ -341,3 +341,28 @@ Derived only from attributed Munger quotes in longform sources. When uncertain, 
 - **Sunday newspaper readership was growing in importance relative to weekday readership when the News revised its schedule:** "Sunday newspaper readership was continuing to grow in importance relative to weekday newspaper readership" — BCS 1977
 - **Accounting for trading-stamp redemption liability is difficult when issuances decline sharply:** "accounting for trading stamp redemption liability (which involves estimating the number of stamps that will ultimately be redeemed and the cost per stamp) is a difficult process when stamp issuances decline by a large percentage" — BCS 1977
 - **Munger declared the News' commitment to future Sunday publication is total despite difficulties.:** "the News‘ commitment to future Sunday publication is total" — BCS 1977
+
+
+## Berkshire 2010–2011 Gongol notes (incremental 2026-09-20)
+
+- **Munger held that attempts to change corporate or organizational culture fail without exception:** "the rate of failure at changing a corporate or organizational culture is 100%" — Gongol BRK 2010 NOTES
+- **Munger urged continuous learning—competitors keep improving, so you must end each day smarter than you started:** "you have to go to bed smarter than you woke up" — Gongol BRK 2010 NOTES
+- **Munger cited Peter Kiewit as building a great business through superior care and self-discipline versus rivals:** "Peter Kiewit built a great business by caring more and disciplining himself more than his competitors cared or disciplined themselves." — Gongol BRK 2010 NOTES
+- **Munger said Berkshire's core acquisition formula never changes:** "The formula never changes." — Gongol BRK 2010 NOTES
+- **Munger said if he could own only one business, he'd pick the one with the highest possible pricing power:** "The one with the highest possible pricing power we can find." — Gongol BRK 2010 NOTES
+- **Munger said Berkshire sellers are smart and avoid fee-hungry intermediaries:** "They avoid fee-hungry intermediaries" — Gongol BRK 2010 NOTES
+- **Munger did not think Berkshire's buying period was over, but expected acquisitions to be slower than in the past:** "The process of acquisition will probably be slower than in the past." — Gongol BRK 2010 NOTES
+- **Munger said BYD showed Berkshire could learn beyond its tech avoidance and compared BYD's discipline to Peter Kiewit:** "BYD reminds me of Kiewit" — Gongol BRK 2010 NOTES
+- **Munger said BYD launch delays are inevitable while noting the stock traded above Berkshire's purchase price:** "Delays in product launches are inevitable." — Gongol BRK 2011 NOTES
+- **Munger held equities are much easier investments than commodities:** "Equities are much easier as investments than commodities." — Gongol BRK 2011 NOTES
+- **Munger said many finance students would be better off studying snake-charming than terrible economics taught at big schools:** "Lots of finance students would be better off studying snake-charming instead." — Gongol BRK 2011 NOTES
+- **Munger said creating permanent value-building partners beats beating others at shuffling papers as the portfolio scales:** "beating someone else at shuffling papers" — Gongol BRK 2011 NOTES
+- **Munger called casualty insurance a poor business with temptation to be stupid, much like banking:** "Casualty insurance isn't a great business. There's lots of temptation to be stupid, just as there is in banking." — Gongol BRK 2011 NOTES
+- **Munger said the secret of success in a field is getting very interested in it—citing Ajit Jain:** "getting very interested in it, and Ajit does that" — Gongol BRK 2011 NOTES
+- **Munger said Berkshire won't find operating businesses at decent prices in the current environment:** "We aren't going to find operating businesses at decent prices today." — Gongol BRK 2011 NOTES
+- **Munger said wealth growth naturally destroys incentives and urged getting children deeply interested in something:** "incentives are destroyed naturally as wealth grows" — Gongol BRK 2011 NOTES
+- **Munger said enough energy solves the water problem; conserve hydrocarbons chiefly for agriculture:** "With enough energy, the water problem goes away." — Gongol BRK 2011 NOTES
+- **Munger said both political parties compete to see who can be the most stupid:** "Both parties compete to see who can be the most stupid." — Gongol BRK 2011 NOTES
+- **Munger said business-school projection models usually produce enormous false certainty:** "an enormous false certainty" — Gongol BRK 2011 NOTES
+- **Munger said it is stupid for an opportunistic organization to maximize very short-term returns:** "maximizing very short-term returns when you're an opportunistic organization like we are" — Gongol BRK 2011 NOTES
+- **Munger said a virtue of cyclical businesses is lumpy earnings don't bother Berkshire—they're cheap when markets fall:** "Who cares if earnings are lumpy? Not us." — Gongol BRK 2011 NOTES

@@ -164,3 +164,8 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - **Increased Pinkerton's equity to 27% in 1977 via additional non-voting stock purchases:** "In 1977 we again increased our equity, to 27%, by additional purchases of marketable non-voting stock." — BCS 1977
 - **Munger said See's achieves the highest sales per store of any candy-store chain worldwide and that Blue Chip is privileged to steward its business tradition.:** "We are privileged to own See’s and to be stewards of its business tradition and example." — BCS 1977
 - **Munger noted trading-stamp float is large relative to current issuances because past volume was many times greater—and is declining.:** "resulting from past issuances of trading stamps when volume was many times greater than the current level" — BCS 1977
+
+
+## Berkshire 2010–2011 Gongol notes (incremental 2026-09-20)
+
+- **Munger expected decent approximations of Warren Buffett to help with investing after Buffett:** "decent approximations of Warren Buffett on the way to help us do the investing" — Gongol BRK 2010 NOTES — http://www.gongol.com/research/berkshire/2010/

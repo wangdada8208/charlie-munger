@@ -136,3 +136,10 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 
 - **Willing to buy a large daily newspaper despite competition from another area-wide daily in the same city:** "quite willing, as attempted in Cincinnati and accomplished in Buffalo, to purchase a daily newspaper subject to the hazards of competition from another area-wide daily newspaper in the same city" — BCS 1977
 - **Committed to local management of the News's news and editorial product:** "We are committed to the principle of local management of news and editorial product" — BCS 1977
+
+
+## Berkshire 2010–2011 Gongol notes (incremental 2026-09-20)
+
+- **Munger said if Lubrizol wanted an auction, Berkshire was out:** "If they wanted an auction, we were out." — Gongol BRK 2011 NOTES
+- **Munger said reading speed is overrated and it's better not to make mistakes:** "Speed is overrated. It's better not to make mistakes." — Gongol BRK 2011 NOTES
+- **Munger said business-school students should learn projections the Berkshire way:** "Business school students should learn to do it our way." — Gongol BRK 2011 NOTES

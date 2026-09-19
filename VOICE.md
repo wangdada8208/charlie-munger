@@ -226,3 +226,8 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 
 - **See's operating principle—Ben Franklin's Poor Richard admonition:** "Keep thy shop and thy shop will keep thee." — BCS 1977
 - **Buffalo strategy: win litigation by deserving to win:** "The News is proceeding in Buffalo on the theory that it will win its litigation by deserving to win" — BCS 1977
+
+
+## Berkshire 2010–2011 Gongol notes (incremental 2026-09-20)
+
+1. "Warren and I do things differently because it suits us and because we're pragmatic" — Gongol BRK 2010 NOTES — http://www.gongol.com/research/berkshire/2010/
