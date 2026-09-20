@@ -143,3 +143,11 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Munger said if Lubrizol wanted an auction, Berkshire was out:** "If they wanted an auction, we were out." — Gongol BRK 2011 NOTES
 - **Munger said reading speed is overrated and it's better not to make mistakes:** "Speed is overrated. It's better not to make mistakes." — Gongol BRK 2011 NOTES
 - **Munger said business-school students should learn projections the Berkshire way:** "Business school students should learn to do it our way." — Gongol BRK 2011 NOTES
+
+
+## Incremental 2026-09-21
+
+- **Munger said Berkshire won't expand executive compensation disclosure beyond SEC requirements—it is better to focus on culture:** "It's much better for us to focus on the culture." — Berkshire 2014 Gongol — http://www.gongol.com/research/berkshire/2014/
+- **Munger warned that if you just listen to your elders, they'll lie to you:** "If you just listen to your elders, they'll lie to you." — Berkshire 2016 Gongol — http://www.gongol.com/research/berkshire/2016/
+- **Munger refused restructuring carve-outs, comparing them to killing your mother for life insurance:** "We just won't do it." — Berkshire 2016 Gongol — http://www.gongol.com/research/berkshire/2016/
+- **Munger called mark-to-market income-statement changes bonkers and said accountants want rules that make them safe:** "It's bonkers. Accountants want rules that make them safe." — Berkshire 2023 Gongol — http://www.gongol.com/research/berkshire/2023/

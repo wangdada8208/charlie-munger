@@ -366,3 +366,31 @@ Derived only from attributed Munger quotes in longform sources. When uncertain, 
 - **Munger said business-school projection models usually produce enormous false certainty:** "an enormous false certainty" — Gongol BRK 2011 NOTES
 - **Munger said it is stupid for an opportunistic organization to maximize very short-term returns:** "maximizing very short-term returns when you're an opportunistic organization like we are" — Gongol BRK 2011 NOTES
 - **Munger said a virtue of cyclical businesses is lumpy earnings don't bother Berkshire—they're cheap when markets fall:** "Who cares if earnings are lumpy? Not us." — Gongol BRK 2011 NOTES
+
+## Berkshire Gongol notes 2014/2015/2016/2023 (incremental 2026-09-21)
+
+- **Munger said envy does a lot of damage to the country:** "Envy does a lot of damage to the country." — Berkshire 2014 Gongol
+- **Munger said a high degree of earned trust works well and modern accounting relying on institutional internal controls does more harm than good:** "Modern accounting does a lot more harm than good when it relies on institutional internal controls." — Berkshire 2014 Gongol
+- **Munger said recent economics confuses the profession and Berkshire isn't buying a lot of long-term bonds:** "you'll notice that we aren't buying a lot of long-term bonds at Berkshire." — Berkshire 2014 Gongol
+- **Munger said the conglomerate model works when done right and Berkshire is more like the patient Mellon brothers than serial issuers like Gulf and Western:** "we're a lot more like the Mellon brothers than Gulf and Western." — Berkshire 2014 Gongol
+- **Munger said you don't have to be great—you just want to go up against idiots, and there's a large supply:** "you just want to go up against idiots, and fortunately there's a large supply." — Berkshire 2014 Gongol
+- **Munger cited Weimar Germany to warn that inflation can destroy savers and help owners of good businesses, and said he doesn't trust politicians at the printing press:** "I don't trust idiot politicians at the printing press." — Berkshire 2014 Gongol
+- **Munger compared shareholder activism to fox hunting—the pursuit of the un-eatable by the unspeakable—and said it isn't good for America:** "The pursuit of the un-eatable by the unspeakable." — Berkshire 2014 Gongol
+- **Munger defended 3G-style cost removal as a service to civilization, not immoral, though it should be done with sensitivity:** "3G is very good at removing unnecessary costs, and that's not in any way immoral or wrong; it's a service to civilization." — Berkshire 2014 Gongol
+- **Munger said Berkshire worked because Warren and he kept learning rather than staying frozen in time:** "It's that we kept learning that has made it work." — Berkshire 2015 Gongol
+- **Munger said every time Berkshire used stock as a purchase tool, it was a mistake:** "Every time we've used stock as a purchase tool, it's been a mistake." — Berkshire 2015 Gongol
+- **Munger said Henry Singleton was smarter than Buffett or Munger but Teledyne's incentive culture eventually went too far with the Defense Department:** "the people inside Teledyne went too far in dealing with the Defense Department and got the company in trouble." — Berkshire 2015 Gongol
+- **Munger said trustworthiness matters more than brains and Berkshire would never hire someone untrustworthy no matter how able:** "Trustworthiness is more important than brains." — Berkshire 2015 Gongol
+- **Munger said value investing will never go out of style and asked why people want value everywhere except in stocks:** "Value investing will never go out of style." — Berkshire 2015 Gongol
+- **Munger said close US-China collaboration and mutual trust are enormously important for safety and world benefit:** "I can't think of anything more important than future close collaboration between the US and China." — Berkshire 2015 Gongol
+- **Munger favors renewables chiefly to conserve hydrocarbons for future food production, not mainly for carbon emissions:** "I think we'll need every drop of hydrocarbons to raise food in the future" — Berkshire 2016 Gongol
+- **Munger called Valeant a sewer and said those blamed earned their opprobrium:** "Valeant is a sewer" — Berkshire 2016 Gongol
+- **Munger said able people can usually do more, but unable ones usually can't be fixed:** "the unable ones usually can't be fixed." — Berkshire 2016 Gongol
+- **Munger said the basic rule of incentives is you get what you reward for—dumb systems produce dumb outcomes:** "If you have a dumb incentive system, you'll get dumb outcomes." — Berkshire 2016 Gongol
+- **Munger said value investors should get used to making less because there are more of them chasing fewer opportunities:** "Value investors should get used to making less." — Berkshire 2023 Gongol
+- **Munger said the US should get along with China and have as much free trade as possible:** "get along with China and have as much free trade as possible with China." — Berkshire 2023 Gongol
+- **Munger said bankers should be more like engineers—focused on avoiding trouble than getting rich:** "I think a banker should be more like an engineer and be more into avoiding trouble than into getting rich." — Berkshire 2023 Gongol
+- **Munger said banking becomes deeply toxic when everyone wants to get rich and is envious of everyone else:** "I think that's deeply toxic." — Berkshire 2023 Gongol
+- **Munger said even without caring about climate change, conserving hydrocarbons is wise because they can do things nothing else can:** "it would still be wise to be conservative with our hydrocarbons." — Berkshire 2023 Gongol
+- **Munger said Musk over-estimates himself but undertakes impossible tasks; he and Buffett prefer easy jobs with less failure:** "Warren and I want to find the easy jobs. We don't want that much failure." — Berkshire 2023 Gongol
+- **Munger said it is poison to think US success happens automatically rather than through striving:** "It's poison to think that our country's success happens automatically" — Berkshire 2023 Gongol

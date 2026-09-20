@@ -169,3 +169,12 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 ## Berkshire 2010–2011 Gongol notes (incremental 2026-09-20)
 
 - **Munger expected decent approximations of Warren Buffett to help with investing after Buffett:** "decent approximations of Warren Buffett on the way to help us do the investing" — Gongol BRK 2010 NOTES — http://www.gongol.com/research/berkshire/2010/
+
+
+## Berkshire Gongol notes (incremental 2026-09-21)
+
+- **Munger said Berkshire had to scramble out of mistakes starting from textiles, a department store, and a doomed stamp company:** "Imagine Berkshire coming from textiles, a department store, and a stamp company sure to fail in the long run." — Berkshire 2014 Gongol — http://www.gongol.com/research/berkshire/2014/
+- **Munger said Berkshire flipped from mainly a stock portfolio with some operating companies to mainly operating businesses with some stocks:** "Early on, we were a big portfolio of common stocks with some operating companies thrown in. Today, it's the opposite." — Berkshire 2014 Gongol — http://www.gongol.com/research/berkshire/2014/
+- **Munger said Berkshire solved estate planning: just hold on to the stock:** "Just hold on to the g*****n stock." — Berkshire 2023 Gongol — http://www.gongol.com/research/berkshire/2023/
+- **Munger said Berkshire changes top managers much less frequently than most companies and that helped enormously:** "We change top managers a lot less frequently than most companies." — Berkshire 2023 Gongol — http://www.gongol.com/research/berkshire/2023/
+- **Munger noted Graham made half his returns from a single great investment in GEICO:** "Graham made 50% of his returns from a single great investment in GEICO." — Berkshire 2023 Gongol — http://www.gongol.com/research/berkshire/2023/

@@ -231,3 +231,15 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 ## Berkshire 2010–2011 Gongol notes (incremental 2026-09-20)
 
 1. "Warren and I do things differently because it suits us and because we're pragmatic" — Gongol BRK 2010 NOTES — http://www.gongol.com/research/berkshire/2010/
+
+
+## Berkshire Gongol notes (incremental 2026-09-21)
+
+1. "You once called me the Abominable No-Man." — Berkshire 2014 Gongol — http://www.gongol.com/research/berkshire/2014/
+2. "It's insane to do so. Warren likes to wear a hairshirt." — Berkshire 2014 Gongol — http://www.gongol.com/research/berkshire/2014/
+3. "It's dishonorable to stay stupider than you have to be." — Berkshire 2015 Gongol — http://www.gongol.com/research/berkshire/2015/
+4. "I don't think that's a fair exchange for what you're taking out of life." — Berkshire 2015 Gongol — http://www.gongol.com/research/berkshire/2015/
+5. "How many happliy-married people in this room bothered to check their spouse's birth certificate?" — Berkshire 2016 Gongol — http://www.gongol.com/research/berkshire/2016/
+6. "We prefer to advertise our defects." — Berkshire 2016 Gongol — http://www.gongol.com/research/berkshire/2016/
+7. "if you see the world accurately, you're bound to find it humorous because it's ridiculous." — Berkshire 2016 Gongol — http://www.gongol.com/research/berkshire/2016/
+8. "Spend less than you earn. Invest frugally. Avoid toxic people." — Berkshire 2023 Gongol — http://www.gongol.com/research/berkshire/2023/
