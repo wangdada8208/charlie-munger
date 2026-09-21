@@ -243,3 +243,11 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 6. "We prefer to advertise our defects." — Berkshire 2016 Gongol — http://www.gongol.com/research/berkshire/2016/
 7. "if you see the world accurately, you're bound to find it humorous because it's ridiculous." — Berkshire 2016 Gongol — http://www.gongol.com/research/berkshire/2016/
 8. "Spend less than you earn. Invest frugally. Avoid toxic people." — Berkshire 2023 Gongol — http://www.gongol.com/research/berkshire/2023/
+
+## Berkshire annual meetings 2003–2006 (incremental 2026-09-22)
+
+1. "requires people to pretend that they can do something that they can’t do, and to pretend to like it when they really don’t" — Berkshire 2003 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2003-berkshire-hathaway-annual-meeting
+2. "money management is sort of a low calling, compared to being a surgeon" — Berkshire 2005 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2005-berkshire-hathaway-annual-meeting
+3. "If a thing’s not worth doing at all, it’s not worth doing well" — Berkshire 2005 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2005-berkshire-hathaway-annual-meeting
+4. "trumpet your failures and be quiet about your successes" — Berkshire 2006 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2006-berkshire-hathaway-annual-meeting
+5. "the best thing you can do is reduce your expectations" — Berkshire 2006 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2006-berkshire-hathaway-annual-meeting
