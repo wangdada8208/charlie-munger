@@ -251,3 +251,15 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 3. "If a thing’s not worth doing at all, it’s not worth doing well" — Berkshire 2005 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2005-berkshire-hathaway-annual-meeting
 4. "trumpet your failures and be quiet about your successes" — Berkshire 2006 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2006-berkshire-hathaway-annual-meeting
 5. "the best thing you can do is reduce your expectations" — Berkshire 2006 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2006-berkshire-hathaway-annual-meeting
+
+## Berkshire annual meetings 2007–2013 (Finanzapedia; incremental 2026-09-23)
+
+1. "Yes, but I wasn’t asking anybody else for advice how to do it" — Berkshire 2007 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2007-berkshire-hathaway-annual-meeting
+2. "Some of the very best people are dead" — Berkshire 2007 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2007-berkshire-hathaway-annual-meeting
+3. "I didn’t want to admit he was a compensation consultant" — Berkshire 2007 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2007-berkshire-hathaway-annual-meeting
+4. "the fish just comes by once a week or once a month or once every ten years" — Berkshire 2008 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2008-berkshire-hathaway-annual-meeting
+5. "pretending to be professional investors" — Berkshire 2008 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2008-berkshire-hathaway-annual-meeting
+6. "They’re not dumb enough for us" — Berkshire 2009 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2009-berkshire-hathaway-annual-meeting
+7. "if you think your IQ is 160 and it’s 150, you’re a disaster" — Berkshire 2009 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2009-berkshire-hathaway-annual-meeting
+8. "McDonald’s succeeded better as an educator than the people in the university did" — Berkshire 2010 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2010-berkshire-hathaway-annual-meeting
+9. "I believe he left it all" — Berkshire 2010 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2010-berkshire-hathaway-annual-meeting
