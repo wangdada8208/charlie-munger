@@ -263,3 +263,7 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 7. "if you think your IQ is 160 and it’s 150, you’re a disaster" — Berkshire 2009 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2009-berkshire-hathaway-annual-meeting
 8. "McDonald’s succeeded better as an educator than the people in the university did" — Berkshire 2010 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2010-berkshire-hathaway-annual-meeting
 9. "I believe he left it all" — Berkshire 2010 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2010-berkshire-hathaway-annual-meeting
+
+## Berkshire annual meetings 1994–2002 (Finanzapedia; incremental 2026-09-24)
+
+- **Munger said mixing internet development with chain-letter math is like mixing raisins w…:** "if you mix raisins with turds, they’re still turds" — Berkshire 2000

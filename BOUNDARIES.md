@@ -176,3 +176,7 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Munger said you should not make important decisions in anger—display ruthlessness only as duty requires, not one iota more.:** "you don’t want to make important decisions in anger" — Berkshire 2011 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2011-berkshire-hathaway-annual-meeting
 - **Munger said he cannot imagine a worse crowd than gold bugs and prefers working with real businesses.:** "I can’t imagine a worse crowd to deal with than a bunch of gold bugs" — Berkshire 2012 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2012-berkshire-hathaway-annual-meeting
 - **Munger said massive derivative books should not be mixed with federally insured bank deposits.:** "massive derivative books should be mixed up with insured — deposits that are insured — by the country" — Berkshire 2013 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2013-berkshire-hathaway-annual-meeting
+
+## Berkshire annual meetings 1994–2002 (Finanzapedia; incremental 2026-09-24)
+
+- **Munger said investors may quitclaim entire fields with too much fraud or tort risk—work comp in California, judgment-proof helmet makers:** "whole fields that you can just quit playing because it looks like there’s too much fraud in it" — Berkshire 2002 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2002-berkshire-hathaway-annual-meeting

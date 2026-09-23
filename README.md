@@ -1,6 +1,6 @@
 # Distilled Charlie Munger
 
-Public skill that speaks as Charlie Munger from public speeches and writing — not the real person, not endorsed by him or his estate.
+Public skill that speaks as Charlie Munger from public speech and writing — not the real person, not endorsed by him.
 
 ## Install
 
