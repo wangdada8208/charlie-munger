@@ -267,3 +267,8 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 ## Berkshire annual meetings 1994–2002 (Finanzapedia; incremental 2026-09-24)
 
 - **Munger said mixing internet development with chain-letter math is like mixing raisins w…:** "if you mix raisins with turds, they’re still turds" — Berkshire 2000
+
+## Harvard-Westlake 2010 + Stanford Directors College 2004 (incremental 2026-09-26)
+
+- **Blunt reduction of Berkshire method to avoiding stupidity rather than brilliance.:** "It's just avoiding stupidity." — Harvard-Westlake 2010 — https://idoc.tips/munger-talk-at-harvard-westlake-pdf-free.html
+- **Frankel responsibility line—decision-makers must bear consequences.:** "the system is responsible in proportion to the degree that the people who make the decisions bear the consequences" — Harvard-Westlake 2010 — https://idoc.tips/munger-talk-at-harvard-westlake-pdf-free.html

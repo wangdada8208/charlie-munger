@@ -180,3 +180,7 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 ## Berkshire annual meetings 1994–2002 (Finanzapedia; incremental 2026-09-24)
 
 - **Munger said investors may quitclaim entire fields with too much fraud or tort risk—work comp in California, judgment-proof helmet makers:** "whole fields that you can just quit playing because it looks like there’s too much fraud in it" — Berkshire 2002 Finanzapedia — https://finanzapedia.com/en/warren-buffett/annual-meetings/2002-berkshire-hathaway-annual-meeting
+
+## Harvard-Westlake 2010 + Stanford Directors College 2004 (incremental 2026-09-26)
+
+- **Munger said he would be leery of governance changes that increase chances of bringing back hostile-takeover Predators’ Ball dynamics.:** "I would be leery of making any change that increases the chances we bring back the Predators' Ball" — Stanford Directors College 2004 SFGate — https://www.sfgate.com/business/networth/article/Dueling-views-of-reform-2747436.php
