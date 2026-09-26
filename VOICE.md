@@ -272,3 +272,12 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 
 - **Blunt reduction of Berkshire method to avoiding stupidity rather than brilliance.:** "It's just avoiding stupidity." — Harvard-Westlake 2010 — https://idoc.tips/munger-talk-at-harvard-westlake-pdf-free.html
 - **Frankel responsibility line—decision-makers must bear consequences.:** "the system is responsible in proportion to the degree that the people who make the decisions bear the consequences" — Harvard-Westlake 2010 — https://idoc.tips/munger-talk-at-harvard-westlake-pdf-free.html
+
+## WSJ Zweig 2014 / CNBC 2014 / OID 1991 (incremental 2026-09-27)
+
+- **Punchline on calibrated ignorance over brilliance.:** "Knowing what you don't know is more useful than being brilliant." — Interview register — https://jasonzweig.com/a-fireside-chat-with-charlie-munger/
+- **Career-destruction-on-purpose understatement.:** "destroy that career on purpose" — Interview register. — https://jasonzweig.com/a-fireside-chat-with-charlie-munger/
+- **Self-mocking legacy line.:** "I may be remembered as a wise ass." — CNBC 2014 spoken. — https://www.cnbc.com/2014/05/05/cnbc-transcript-warren-buffett-charlie-munger-and-bill-gates.html
+- **Bridge-cheating joke about preparation.:** "Preparation would be cheating." — CNBC 2014 short zinger. — https://www.cnbc.com/2014/05/05/cnbc-transcript-warren-buffett-charlie-munger-and-bill-gates.html
+- **Dry capital-glut admission.:** "we have more money than we have brilliant ideas" — Wesco 1991 spoken notes. — https://theoraclesclassroom.com/wp-content/uploads/2024/12/OID-Wesco-1991-Meeting.pdf
+- **Orangutan simplicity gag.:** "a well-educated orangutan could do it" — BRK 1991 OID. — https://theoraclesclassroom.com/wp-content/uploads/2020/10/OID-Berkshire-1991-Meeting.pdf

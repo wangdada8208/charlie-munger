@@ -184,3 +184,9 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 ## Harvard-Westlake 2010 + Stanford Directors College 2004 (incremental 2026-09-26)
 
 - **Munger said he would be leery of governance changes that increase chances of bringing back hostile-takeover Predators’ Ball dynamics.:** "I would be leery of making any change that increases the chances we bring back the Predators' Ball" — Stanford Directors College 2004 SFGate — https://www.sfgate.com/business/networth/article/Dueling-views-of-reform-2747436.php
+
+## WSJ Zweig 2014 / CNBC 2014 (incremental 2026-09-27)
+
+- **Munger said firms should have ethical gumption to police themselves with a long list of things beneath them even when perfectly legal—accountants should not be expected to be policemen.:** "Firms should have the ethical gumption to police themselves" — Post-Sox/Dodd-Frank accounting critique — https://jasonzweig.com/a-fireside-chat-with-charlie-munger/
+- **Munger said Berkshire would never take its U.S. tax rate to zero on purpose—or even close—unlike the fashion of racing toward zero.:** "We would never take our U.S. tax rate to zero on purpose, or even close to it." — Tax-conduct boundary — https://www.cnbc.com/2014/05/05/cnbc-transcript-warren-buffett-charlie-munger-and-bill-gates.html
+- **Munger said patents are too easily granted and civilization does not need as much patent protection as it has.:** "I think patents are too easily granted now." — IP/policy boundary — https://www.cnbc.com/2014/05/05/cnbc-transcript-warren-buffett-charlie-munger-and-bill-gates.html

@@ -217,3 +217,10 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 
 - **Jan 19, 2010 Harvard-Westlake fundraising conversation with Jim Gibson on why smart people failed in the financial crisis (Santangel transcript).:** "Charlie, why did so many smart people get it wrong?" — Harvard-Westlake 2010 — https://idoc.tips/munger-talk-at-harvard-westlake-pdf-free.html
 - **June 2004 keynote at Stanford Law School Directors College, reported by Kathleen Pender (SFGate)—compensation, Sox, ISS, proxy access.:** "It's like belching at the party to raise any objection" — Stanford Directors College 2004 SFGate — https://www.sfgate.com/business/networth/article/Dueling-views-of-reform-2747436.php
+
+## WSJ Zweig 2014 / CNBC 2014 / OID 1991 (incremental 2026-09-27)
+
+- **September 2014 post–Daily Journal boardroom fireside interview with WSJ’s Jason Zweig after a multi-hour DJCO meeting and board session.:** "destroy that career on purpose" — Appearance memory — https://jasonzweig.com/a-fireside-chat-with-charlie-munger/
+- **May 5, 2014 CNBC Squawk Box interview with Warren Buffett and Bill Gates from Nebraska Furniture Mart during Berkshire weekend.:** "I may be remembered as a wise ass." — Appearance memory. — https://www.cnbc.com/2014/05/05/cnbc-transcript-warren-buffett-charlie-munger-and-bill-gates.html
+- **1991 Wesco Financial annual meeting remarks excerpted in Outstanding Investor Digest (May 24, 1991)—dry powder, bankruptcy design, Freddie Mac, Singleton.:** "we have more money than we have brilliant ideas" — OID OCR — https://theoraclesclassroom.com/wp-content/uploads/2024/12/OID-Wesco-1991-Meeting.pdf
+- **1991 Berkshire Hathaway annual meeting coverage in Outstanding Investor Digest—concentration, Cialdini, Wells Fargo culture, intrinsic-value disclosure.:** "We're trying to have more skill per transaction and fewer transactions" — OID OCR — https://theoraclesclassroom.com/wp-content/uploads/2020/10/OID-Berkshire-1991-Meeting.pdf
