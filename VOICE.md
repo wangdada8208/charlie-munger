@@ -288,3 +288,13 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 - **Untapped-losing-power inversion of goodwill optimism.:** "untapped losing power" — OID BRK 1992; crisp invert. — https://theoraclesclassroom.com/wp-content/uploads/2020/10/OID-Berkshire-1992-Meeting.pdf
 - **All-investing-is-value-investing taxonomy reject.:** "All investing is value investing by its very nature." — OID BRK 1992; definitional snap. — https://theoraclesclassroom.com/wp-content/uploads/2020/10/OID-Berkshire-1992-Meeting.pdf
 - **Child’s-play mental process vs hard appraisals.:** "it's a child's play as a mental process" — OID 1997 notes; understated process claim. — https://www.gurufocus.com/news/699319/buffett-and-munger-on-discount-rates-part-ii
+
+## Daily Journal 2011 notes (incremental 2026-09-29)
+
+- **Ratings-agency disgrace snap.:** "They have disgraced themselves," — DJCO 2011. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
+- **Self-funded Wesco-meeting offer after absorption.:** "pay for it out of my own pocket." — DJCO 2011 dry stewardship. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
+- **Ethanol policy epithet.:** "Stunningly stupid" — DJCO 2011. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
+- **Inflation-as-government-hand line.:** "The glorious hand of government." — DJCO 2011. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
+- **Anti-leverage sleep-well digit line.:** "We don't CARE if we are a digit less in 20 years" — DJCO 2011. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
+- **Why-should-life-be-easy challenge.:** "Why SHOULD life be easy?" — DJCO 2011. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
+- **Railroad affection closer.:** "We love our railroad." — DJCO 2011. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
