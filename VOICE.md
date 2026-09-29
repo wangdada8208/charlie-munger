@@ -298,3 +298,20 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 - **Anti-leverage sleep-well digit line.:** "We don't CARE if we are a digit less in 20 years" — DJCO 2011. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
 - **Why-should-life-be-easy challenge.:** "Why SHOULD life be easy?" — DJCO 2011. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
 - **Railroad affection closer.:** "We love our railroad." — DJCO 2011. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
+
+## Berkshire meetings (Hendershot / CNBC / Yahoo) — incremental 2026-09-30
+
+95. "Now that you know the question, you can solve it!" — BRK 2007 — https://s3.amazonaws.com/static.contentres.com/media/documents/7b185739-ddd8-4da0-8022-22b004adc8fd.pdf
+
+96. "We don’t do start-ups." — BRK 2008 — https://s3.amazonaws.com/static.contentres.com/media/documents/5de850aa-0374-4625-b3bd-0f04bfa316ce.pdf
+
+97. "God give me chastity, but not yet!" — BRK 2008 — https://s3.amazonaws.com/static.contentres.com/media/documents/5de850aa-0374-4625-b3bd-0f04bfa316ce.pdf
+
+98. "If this is a terrible problem, we wish we had more of them." — BRK 2009 — https://s3.amazonaws.com/static.contentres.com/media/documents/cea31479-d079-4a4f-9992-6829c3d86901.pdf
+
+99. "I hardly can find the words to express my contempt." — BRK 2017 — https://s3.amazonaws.com/static.contentres.com/media/documents/27a31266-254e-4ff2-a328-cf6bf00c35c4.pdf
+
+100. "celebrate the life and work of Judas Iscariot." — BRK 2019 — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
+
+101. "We screwed up." — BRK 2019 — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
+

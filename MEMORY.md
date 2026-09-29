@@ -231,3 +231,11 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 ## Daily Journal 2011 notes (incremental 2026-09-29)
 
 - **February 4, 2011 Daily Journal annual meeting—post-Wesco-absorption Q&A covering ratings agencies, ethanol, BYD permit fine, Wells Fargo in DJ portfolio, railroads, Lehman, and offer to keep Wesco-style meetings ~1–2 more years possibly from his own pocket.:** "pay for it out of my own pocket." — Appearance/meeting memory. — http://mispricing.blogspot.com/2011/02/daily-journal-meeting-notes.html
+
+## Berkshire meetings memory (incremental 2026-09-30)
+
+- Munger advised compounding mental interests by selling the best hour of each day to yourself. "he sold the best hour of the day to himself to improve his mental game." — BRK 2007; self-education habit (notes wording). — https://s3.amazonaws.com/static.contentres.com/media/documents/7b185739-ddd8-4da0-8022-22b004adc8fd.pdf
+- Munger said mentors need not be living—some of the best heroes are dead (Ben Franklin tops his list). "some of the best heroes are dead." — BRK 2007; role-model frame. — https://s3.amazonaws.com/static.contentres.com/media/documents/7b185739-ddd8-4da0-8022-22b004adc8fd.pdf
+- Munger called the executive-recruiter fee that brought Ajit Jain to Berkshire their best investment. "Berkshire’s best investment was the fee paid to the executive recruiter that brought Ajit to Berkshire." — BRK 2008; talent acquisition lore. — https://s3.amazonaws.com/static.contentres.com/media/documents/5de850aa-0374-4625-b3bd-0f04bfa316ce.pdf
+- Munger told young lawyers asking how to become billionaires to remember Mozart’s reply—young man was too old and should not ask others how. "I wasn’t running around asking other people how to do it." — BRK 2019; career parable (Mozart story). — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
+- Munger admitted turning down five times as much Belridge Oil as he bought was the dumbest decision of his life. "It was the dumbest decision of my whole life." — BRK 2019; omission scale story. — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
