@@ -315,3 +315,21 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 
 101. "We screwed up." — BRK 2019 — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
 
+## Berkshire meeting notes (2005–2006 / 2021)
+
+102. "Our success has come from the lack of oversight we’ve provided, and our success will continue to be from a lack of oversight." — https://charliemungersays.com/index.php/2017/02/11/36-berkshire-annual-meeting-2005-part-i-points-1-8-for-wisdom-fun-of-learning/
+
+103. "There’s a class of businesses that doesn’t want to deal with private-equity and hedge funds…thank God." — https://charliemungersays.com/index.php/2017/02/11/36-berkshire-annual-meeting-2005-part-i-points-1-8-for-wisdom-fun-of-learning/
+
+104. "And REIT accounting is phony." — https://charliemungersays.com/index.php/2017/02/13/38-berkshire-annual-meeting-2005-final-part-iii-points-17-27-for-wisdom-fun-of-learning/
+
+105. "What should you do to be like Warren Buffett? The best thing" — http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Buffett-Munger-QnA.pdf
+
+106. "But we prefer to wring the last drop of good out of Warren." — http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Buffett-Munger-QnA.pdf
+
+107. "rare business that doesn’t have a way worse future than it has" — http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Buffett-Munger-QnA.pdf
+
+108. "not a little confused by what’s going on, you" — https://s3.amazonaws.com/static.contentres.com/media/documents/394bfa1d-25f8-4347-906a-c4eff2279ee7.pdf
+
+109. "know what your problem is and I’ll try and make it mo" — https://s3.amazonaws.com/static.contentres.com/media/documents/394bfa1d-25f8-4347-906a-c4eff2279ee7.pdf
+

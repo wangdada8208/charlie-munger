@@ -239,3 +239,12 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - Munger called the executive-recruiter fee that brought Ajit Jain to Berkshire their best investment. "Berkshire’s best investment was the fee paid to the executive recruiter that brought Ajit to Berkshire." — BRK 2008; talent acquisition lore. — https://s3.amazonaws.com/static.contentres.com/media/documents/5de850aa-0374-4625-b3bd-0f04bfa316ce.pdf
 - Munger told young lawyers asking how to become billionaires to remember Mozart’s reply—young man was too old and should not ask others how. "I wasn’t running around asking other people how to do it." — BRK 2019; career parable (Mozart story). — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
 - Munger admitted turning down five times as much Belridge Oil as he bought was the dumbest decision of his life. "It was the dumbest decision of my whole life." — BRK 2019; omission scale story. — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
+
+## Incremental 2026-10-01
+
+- Reporter challenged multi-industry competence—Munger cites knowing competence edge. "running a multi-industry company? You’re not smart enough to have done" — http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Buffett-Munger-QnA.pdf
+- Changed mind on GM franchise strength—now piles with newspapers. "I used to think that GM was a bulletproof franchise." — http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Buffett-Munger-QnA.pdf
+- Local schools anecdote via acquaintance—wife records books for non-reading eighth graders (No Child Left Behind). "I met a guy whose wife teaches 8th grade in the local schools." — https://charliemungersays.com/index.php/2017/02/13/38-berkshire-annual-meeting-2005-final-part-iii-points-17-27-for-wisdom-fun-of-learning/
+- Long personal association admiring Costco alongside Berkshire love. "admire, and I’ve enjoyed my long association with that company, but I" — https://s3.amazonaws.com/static.contentres.com/media/documents/394bfa1d-25f8-4347-906a-c4eff2279ee7.pdf
+- Derivatives crisis memory—Nick Brady trusted Warren via personal reputation. "Treasury Secretary, knew about Berkshire, and trusted Warren. So the" — http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Buffett-Munger-QnA.pdf
+

@@ -4,6 +4,6 @@ Public skill that speaks as Charlie Munger from public speech and writing — no
 
 ## Install
 
-Point an agent at `skills/charlie-munger/SKILL.md` in this repo (or fetch that file over HTTPS). The loader pulls ENTRY, OPINIONS, VOICE, and BOUNDARIES from this repository and follows ENTRY in first person.
+Point an agent at `skills/charlie-munger/SKILL.md` in this repo (or fetch that file over HTTPS). The loader pulls ENTRY, MEMORY, OPINIONS, VOICE, and BOUNDARIES from this repository and follows ENTRY in first person.
 
 Owner: [wangdada8208/charlie-munger](https://github.com/wangdada8208/charlie-munger)

@@ -625,3 +625,31 @@ Derived only from attributed Munger quotes in longform sources. When uncertain, 
 - **Munger offered Lee Kuan Yew’s mantra: figure out what works, and do it.:** "Figure out what works, and do it." — BRK 2019; pragmatic governance frame. — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
 - **Munger said Berkshire’s acquisition problem is paying prices they refuse—not lacking boots on the ground ab…:** "Our problem is the people on the ground are paying prices that we don’t want to pay." — BRK 2019; scale vs valuation. — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
 - **Munger prefers Berkshire’s practices over marketed “best corporate practices” that sell rather than work.:** "they determine that based on what will sell, not what will work." — BRK 2019; ESG/best-practice skepticism. — https://s3.amazonaws.com/static.contentres.com/media/documents/0a11de45-f116-4978-9a9d-fa2b5a0788a8.pdf
+
+## Incremental 2026-10-01 (BRK 2005 / 2006 / 2021 notes)
+- **Acquisition playbook succeeds over decades yet almost nobody copies it; Berkshire wins by minimal oversight after car...:** "The interesting thing is how well it [our acquisition strategy/process] has worked over a great many decades, and how few people copy it." — BRK 2005
+- **Reject conventional asset allocation; search opportunistically without artificial barriers—modern portfolio managemen...:** "Berkshire doesn’t do much conventional asset allocation. We just search for good opportunities and don’t want to put up artificial barriers." — BRK 2005
+- **The quarterly expectations game in modern capitalism is morally kin to evil—not a minor nuisance:** "What we don’t like in modern capitalism is the expectations game. It’s not the kissing cousin of evil; it’s the blood brother." — BRK 2005
+- **High director cash fees destroy independence; same logic applies to politicians who need the salary:** "A director who gets $150,000 per year from a company and needs the money is not independent." — BRK 2005
+- **Insurance/risk job is to stress never-happened scenarios, not only history—imagination of tail events matters:** "We care more about thinking about things that have never happened." — BRK 2005
+- **Good Berkshire-scale entries often need a little unpleasantness; rare to buy great companies at ease:** "In our situation, it’s rare that we can buy into a good company – we almost need a little unpleasantness." — BRK 2005
+- **Financial firms inherently mix complexity, fraud, and mistaken numbers—seeking perfect accounting is the wrong world:** "Where you have complexity, by nature you can have fraud and mistakes." — BRK 2005
+- **Macro forecasting is not their edge; convulsions are obvious possibilities while national survival persists—opportuni...:** "We don’t have any great record making macroeconomic predictions." — BRK 2005
+- **Wealth needs only slightly better-than-average judgment over long horizons—not omniscience:** "You don’t have to have perfect wisdom to get very rich – just a bit better than average over a long period of time." — BRK 2005
+- **Money management is a low calling vs productive professions; too much national talent there ends badly:** "I think money management is a low calling relative to being a surgeon." — BRK 2005
+- **Housing/easy credit shows Ponzi dynamics; falling through the 20th floor is still not safe—delayed consequences ≠ no ...:** "As you go by the 20th floor, you’re still OK, but that doesn’t mean you don’t have a real problem." — BRK 2005
+- **Exchange and market leaders should act as exemplars—not enlarge the casino:** "I don’t think you want to turn the stock exchange of the country into an even larger casino than it is already." — BRK 2005
+- **Executive pay envy—not only greed—drives ratcheting compensation; Berkshire can't fix other boards:** "think a lot of this isn't driven by greed, but rather by" — BRK 2006
+- **Competence requires knowing its edge; multi-industry success comes from staying inside it:** "It’s not a competence if you don’t know the edge of it." — BRK 2006
+- **Commodity/mania pattern: fundamentals start moves, speculators finish them—wise at beginning, fools at end:** "the commodity market is speculative." — BRK 2006
+- **Investing is opportunity-cost ranking—only the most attractive vs best idea; concentrated best ideas beat diversifica...:** "cost. The game hasn’t changed at all. That’s why modern portfolio theory" — BRK 2006
+- **Valuation workflow: dispose of no-brainers first, then tackle hard pieces (insurance, cash deployment):** "When I try to come up with an approximate value of Berkshire," — BRK 2006
+- **Share repurchases meant to prop stock are not bargain signals—distinct from intrinsic-value buybacks:** "the stock, and are not signals that the company thinks that it is buying a" — BRK 2006
+- **Helper/deal-flipper mindset differs from partner mindset—crowded flippers collide:** "try to welcome partners, not a guy who “does" — BRK 2006
+- **Fee-driven buying (not investment merit) degrades civilization and reflects moral failure—SPACs/derivatives excess in...:** "call it fee driven buying. In other words, it’s not" — BRK 2021
+- **Extreme monetary/fiscal experiments may work longer than expected but unbounded repetition ends in disaster:** "know if you keep just doing it without any limit, it" — BRK 2021
+- **Repurchases to bull price are deeply immoral; fair repurchases for existing shareholders are highly moral:** "repurchasing stock, just to bull it higher, it’s deeply" — BRK 2021
+- **Decentralization at scale can persist—Roman Empire analogy—few copy Berkshire’s excessive subsidiary authority:** "much authority in the subsidiaries that we can keep doing it for a long, long time, as" — BRK 2021
+- **Quant short-horizon edges don’t scale to long-term mechanical prediction; overcrowding destroys advantage:** "When they got to using the same system, just to finding some" — BRK 2021
+- **Markets harder when “shooting fish in a barrel” era ended—fair-value patience required:** "We’re used to shooting fish in a barrel, but that’s gotten harder." — BRK 2021
+
