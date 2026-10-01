@@ -217,3 +217,8 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Leveraged real-estate deal structures outside Berkshire field—won't play:** "This is not our field." — http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Buffett-Munger-QnA.pdf
 - **Won't profit from products harmful to people—Robinhood/gamification revulsion:** "want to make our money selling things that are" — https://s3.amazonaws.com/static.contentres.com/media/documents/394bfa1d-25f8-4347-906a-c4eff2279ee7.pdf
 
+
+## Incremental 2026-10-02 (Wesco 1998 / FT 2009)
+
+- **Berkshire does legally required governance meetings; everything else is ad hoc—no meeti...:** "Everything else is ad hoc." — http://everythings27.blogspot.com/2009/07/interview-with-charlie-munger.html
+- **Will not issue Berkshire stock that is unfair to Berkshire shareholders—even if that le...:** "Warren's never going to issue stock that isn't fair to Berkshire shareholders" — http://everythings27.blogspot.com/2009/07/interview-with-charlie-munger.html

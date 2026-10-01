@@ -333,3 +333,14 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 
 109. "know what your problem is and I’ll try and make it mo" — https://s3.amazonaws.com/static.contentres.com/media/documents/394bfa1d-25f8-4347-906a-c4eff2279ee7.pdf
 
+
+## Wesco 1998 / FT 2009 (incremental 2026-10-02)
+
+110. "if you want a really good sled ride, pick a long hill." — https://www.oocities.org/wallstreet/exchange/5144/wesco.htm
+
+111. "We think all intelligent investing is value investing" — http://everythings27.blogspot.com/2009/07/interview-with-charlie-munger.html
+
+112. "They tend to rush into whatever fad has worked lately. In my opinion, a lot of them are going to get creamed." — http://everythings27.blogspot.com/2009/07/interview-with-charlie-munger.html
+
+113. "His spirits lift as he goes through the office door. And I'm the same way." — http://everythings27.blogspot.com/2009/07/interview-with-charlie-munger.html
+
