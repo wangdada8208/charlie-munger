@@ -344,3 +344,14 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 
 113. "His spirits lift as he goes through the office door. And I'm the same way." — http://everythings27.blogspot.com/2009/07/interview-with-charlie-munger.html
 
+## BRK 2003/2004 / 2022 (incremental 2026-10-03)
+
+114. "should substitute the word "bullshit" earnings." — http://www.geocities.ws/chinainvestments/2003meeting.htm
+
+115. "I’d rather throw a viper down my shirt front than hire a compensation consultant." — https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Berkshire%20Hathaway%20Annual%20Meeting%20Notes%202004.pdf
+
+116. "hired the guy to look at the sheep guts." — https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Berkshire%20Hathaway%20Annual%20Meeting%20Notes%202004.pdf
+
+117. "He's "independent" the way a slave is independent." — https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html
+
+118. "Well, because we were stupid." — https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html

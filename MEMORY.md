@@ -248,3 +248,6 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - Long personal association admiring Costco alongside Berkshire love. "admire, and I’ve enjoyed my long association with that company, but I" — https://s3.amazonaws.com/static.contentres.com/media/documents/394bfa1d-25f8-4347-906a-c4eff2279ee7.pdf
 - Derivatives crisis memory—Nick Brady trusted Warren via personal reputation. "Treasury Secretary, knew about Berkshire, and trusted Warren. So the" — http://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Buffett-Munger-QnA.pdf
 
+## Incremental 2026-10-03
+
+- Worked long hours at Buffett’s grocery store young—for experience/lark, not money (allowance + side business). "I was kind of working as a lark in your grocery store." — First-person early Buffett tie; 12-hour days in adjacent exchange. — https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html

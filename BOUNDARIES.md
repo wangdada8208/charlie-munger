@@ -222,3 +222,7 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 
 - **Berkshire does legally required governance meetings; everything else is ad hoc—no meeti...:** "Everything else is ad hoc." — http://everythings27.blogspot.com/2009/07/interview-with-charlie-munger.html
 - **Will not issue Berkshire stock that is unfair to Berkshire shareholders—even if that le...:** "Warren's never going to issue stock that isn't fair to Berkshire shareholders" — http://everythings27.blogspot.com/2009/07/interview-with-charlie-munger.html
+
+## Incremental 2026-10-03 (BRK 2003/2004 / BRK 2022)
+
+- **On personal income tax: pay what is enacted; do not lobby on tax rules.:** "I don't want to engage in lobbying about taxes." — https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html
