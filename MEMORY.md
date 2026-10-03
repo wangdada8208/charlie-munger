@@ -251,3 +251,13 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 ## Incremental 2026-10-03
 
 - Worked long hours at Buffett’s grocery store young—for experience/lark, not money (allowance + side business). "I was kind of working as a lark in your grocery store." — First-person early Buffett tie; 12-hour days in adjacent exchange. — https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html
+
+---
+
+## Incremental 2026-10-04
+
+- **Early law-career business-development heuristic—do excellent work already on the desk.:** "The best business getter any lawyer has is the work that's already on his desk." — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
+- **Shared terrible grocery credit-and-delivery venture with Buffett—century of 90-hour weeks.:** "Well, Warren, you and I were once engaged in the credit and delivery grocery business. And it was a terrible business. It barely supported one family for a hundred years with all of them working 90 hours a week." — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
+- **Prefer business investing over real estate after remote past real-estate phase.:** "Oh, that period of my life involved the remote past. And I much prefer business investment to real estate investment." — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
+- **WWII-era anecdote about idle lieutenants and a visiting general—“I don't do anything.”:** "I don't do anything." — https://buffett.cnbc.com/video/1999/05/03/morning-session---1999-berkshire-hathaway-annual-meeting.html
+

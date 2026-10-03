@@ -226,3 +226,14 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 ## Incremental 2026-10-03 (BRK 2003/2004 / BRK 2022)
 
 - **On personal income tax: pay what is enacted; do not lobby on tax rules.:** "I don't want to engage in lobbying about taxes." — https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html
+
+---
+
+## Incremental 2026-10-04
+
+- **Won’t discuss commodity investments publicly.:** "But we've already said that we're not going to comment about commodity investments." — https://buffett.cnbc.com/video/1999/05/03/morning-session---1999-berkshire-hathaway-annual-meeting.html
+- **No China expertise—declines to opine.:** "Yeah, I don't know much about China." — https://buffett.cnbc.com/video/1999/05/03/morning-session---1999-berkshire-hathaway-annual-meeting.html
+- **Won’t name missed acquisition targets—may want to buy later.:** "I don't like mentioning the specific companies, because the — you know, we may, in due course, want to buy them again and have an opportunity to do so at our price." — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
+- **Won’t discuss silver.:** "The short answer is we don't want to talk about silver." — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
+- **Declines to comment on a shareholder’s specific situation (2001).:** "Let me answer that. I don't think we want to comment." — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
+

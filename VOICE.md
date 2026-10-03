@@ -355,3 +355,22 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 117. "He's "independent" the way a slave is independent." — https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html
 
 118. "Well, because we were stupid." — https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html
+
+---
+
+## Berkshire meetings (CNBC 1999–2001 / Fool 2000)
+
+119. "Well, we're very good at saying no." — BRK 1999 CNBC — https://buffett.cnbc.com/video/1999/05/03/morning-session---1999-berkshire-hathaway-annual-meeting.html
+
+120. "Yeah. Our game is to find a few intelligent things to do. It's not to stay up on every damn thing that's going on in the whole world." — BRK 1999 CNBC — https://buffett.cnbc.com/video/1999/05/03/morning-session---1999-berkshire-hathaway-annual-meeting.html
+
+121. "So all of you can be happy that the progress of the species will affect your economic futures for the worse." — BRK 2000 CNBC — https://buffett.cnbc.com/video/2000/04/29/morning-session---2000-berkshire-hathaway-annual-meeting.html
+
+122. "I never wanted to have a job where lying was a required part of the activity." — BRK 2000 CNBC — https://buffett.cnbc.com/video/2000/04/29/morning-session---2000-berkshire-hathaway-annual-meeting.html
+
+123. "If a thing can't go on forever, it will eventually stop." — BRK 1999 CNBC — https://buffett.cnbc.com/video/1999/05/03/morning-session---1999-berkshire-hathaway-annual-meeting.html
+
+124. "Underline evil, not necessary!" — Fool/Tilson 2000 — https://www.fool.com/archive/boringport/2000/05/01/notes-from-the-berkshire-hathaway-annual-meeting.aspx
+
+125. "I think the current scene is obscene." — BRK 2001 CNBC — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
+
