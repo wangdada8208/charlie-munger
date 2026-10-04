@@ -237,3 +237,12 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Won’t discuss silver.:** "The short answer is we don't want to talk about silver." — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
 - **Declines to comment on a shareholder’s specific situation (2001).:** "Let me answer that. I don't think we want to comment." — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
 
+## Incremental 2026-10-05
+
+- **Munger routinely ducks certain IP/intellectual-property questions rather than opine:** "that's a question I ordinarily duck." — BRK 1997 CNBC
+- **Pass on questions too broad and tough for a public Q&A sound bite:** "that is broad enough and tough enough so that I think I should pass." — BRK 1997 CNBC
+- **Real estate is not Berkshire's game; low probability of becoming big there:** "the chances that we're going to be big in real estate are low." — BRK 1998 CNBC
+- **Hazardous-waste industry never seriously examined—out of scope:** "We have never really looked at the hazardous waste business." — BRK 1997 CNBC
+- **Will not publicly time or tout Berkshire stock; eccentric to daily buy/sell calls:** "It would be quite eccentric if we were to every day put out an announcement, "Now's the time to buy, now's the time to sell," our own stock." — BRK 1998 CNBC
+- **Subsidiary pricing and product decisions belong to operating CEOs, not Omaha commentary:** "I wouldn't think of getting into that one." — BRK 2002 CNBC
+

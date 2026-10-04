@@ -143,9 +143,9 @@ Derived only from attributed Munger quotes in longform sources. When uncertain, 
 
 ### Incremental 2026-09-12 (CNBC 2021 / DJCO notes / Wesco notes / House 1984)
 
-- **Hostile-takeover frenzy turns capital formation into a casino and misallocates talent:** "ties of a casino, the job is likely to be ill done." — CHARLIE MUNGER (House testimony 1984) — https://worldlypartners.com/wp-content/uploads/2024/04/1984-Charlie-Munger-Testimony.pdf
+- **Hostile-takeover frenzy turns capital formation into a casino and misallocates talent:** "ties of a casino, the job is likely to be      ill    done." — CHARLIE MUNGER (House testimony 1984) — https://worldlypartners.com/wp-content/uploads/2024/04/1984-Charlie-Munger-Testimony.pdf
 - **Threatening managers with sudden removal makes them behave worse, not better:** "etc., is plainly that threatened managers behave worse." — CHARLIE MUNGER (House testimony 1984) — https://worldlypartners.com/wp-content/uploads/2024/04/1984-Charlie-Munger-Testimony.pdf
-- **Easy hostile-takeover money attracts the wrong people into corporate power:** "I think that, averaged out, the wrong sort of people are gaining corporate power" — CHARLIE MUNGER (House testimony 1984) — https://worldlypartners.com/wp-content/uploads/2024/04/1984-Charlie-Munger-Testimony.pdf
+- **Easy hostile-takeover money attracts the wrong people into corporate power:** "I think that, averaged out, the wrong sort of people are gaining corporate   power" — CHARLIE MUNGER (House testimony 1984) — https://worldlypartners.com/wp-content/uploads/2024/04/1984-Charlie-Munger-Testimony.pdf
 - **Self-serving bias is the favorite misjudgment to study and guard against:** "what’s good for the holder of the brain is good for everyone else." — NOTES (Wesco 2007) — https://worldlypartners.com/wp-content/uploads/2024/01/2007-wesco-annual-meeting-notes-of-charlie-mungers-remarks-whitney-tilson.pdf
 - **Hard problems need checklists so you don't miss unlikely answers:** "otherwise it’s easy to miss something" — NOTES (Wesco 2007) — https://worldlypartners.com/wp-content/uploads/2024/01/2007-wesco-annual-meeting-notes-of-charlie-mungers-remarks-whitney-tilson.pdf
 - **Sell your best hour to yourself before selling time to clients—intellectual independence requires it:** "sell the rest of my time to my clients." — NOTES (Wesco 2007) — https://worldlypartners.com/wp-content/uploads/2024/01/2007-wesco-annual-meeting-notes-of-charlie-mungers-remarks-whitney-tilson.pdf
@@ -720,3 +720,32 @@ Derived only from attributed Munger quotes in longform sources. When uncertain, 
 - **Macro insight without tradable edge is useless:** "And I'd like to add that, if I knew for sure that the United States share of worldwide market capitalization was going to go from 53 percent down to 40 percent, I wouldn't know how to make money out of that insight by running around buying foreign securities." — BRK 1999 CNBC
 - **Self-education stack: great business magazines plus Value Line…:** "I think both of us learned more from the great business magazines than we do anywhere else." — BRK 1999 CNBC
 - **If Gen Re float earns only one-third of Berkshire’s historical…:** "I would say that if we, in the future, do as — one-third as well with the new float that came to us with General Re as we've done on average in the past, it will work wonderfully." — BRK 1999 CNBC
+
+## Incremental 2026-10-05 (BRK CNBC 1996–1998 + 2002)
+
+- **Much of what passes for modern corporate finance and portfolio theory in universities is useless or worse; …:** "much of what is taught in modern corporate finance courses is twaddle" — BRK 1996 CNBC
+- **Real comprehension of even a simple business from its annual report is slow, hard work—not a quick skim:** "it takes a long time to read the annual report even if it's a comparatively simple business, because if you really are trying to understand it, it's not a bit easy." — BRK 1996 CNBC
+- **Emerging-market growth can be harvested indirectly through global franchises already owned, sometimes bette…:** "doing it indirectly, as we've done, one can argue that we, thereby, do it a lot better." — BRK 1996 CNBC
+- **Buffett relies on obviousness more than displayed spreadsheets; formal discounted-cash-flow models are not …:** "I've never seen him do one." — BRK 1996 CNBC
+- **After bad early experiences, avoid industries requiring heavy compulsory reinvestment merely to stand still:** "we have tried to avoid places where there was a lot of compulsory reinvestment just in order to stand still." — BRK 1997 CNBC
+- **Do not spend old age retrying business types you already failed to understand when young and energetic:** "we're not looking to master what we earlier failed at" — BRK 1997 CNBC
+- **Most investment managers do not add value; those who do are a small minority:** "I think we know investment managers who add value. But it's a comparatively rare and small percentage." — BRK 1997 CNBC
+- **Berkshire as teaching enterprise: a few simple big ideas and filters outperform elaborate apparatus:** "people underrate the importance of a few simple big ideas." — BRK 1997 CNBC
+- **No-brainer opportunities are scarce and years apart; when they appear, act with courage and size:** "people have to learn to have the courage and the intelligence to step up in a major way when those rare opportunities come by." — BRK 1997 CNBC
+- **Sellers of investment advice are selected and incentivized to believe impossible long-term compounding stories:** "Corporate profits can't be 200 percent of GNP." — BRK 1997 CNBC
+- **Graham's layman-teachable net-net method was pin-the-donkey in dark glasses versus Buffett's wide searchlight:** "Graham was trying to play the game of "Pin the Donkey," wearing very dark glasses." — BRK 1997 CNBC
+- **Forecasting edge comes from making fewer predictions, not sharper crystal balls:** "if our predictions have been a little better than other people's, it's because we tried to make fewer of them." — BRK 1998 CNBC
+- **Invest only in ideas that are both good and within your understanding—filters against your own lack of talent:** "we have to have an idea that is A, a good idea, and B, a good idea that we can understand." — BRK 1998 CNBC
+- **Ideal disposition of a holding is sale only when you find something you like immensely more:** "when you found something you like immensely better. Isn't that obvious that's the ideal way to sell?" — BRK 1998 CNBC
+- **Share repurchases can become abusive promotion akin to Ponzi schemes, citing pre-crash utility buybacks:** "the Insull utilities were madly buying their own shares as a way of promoting the stock higher." — BRK 1998 CNBC
+- **Munger decision system: maintain multiple models in head and stress-test reality against each:** "the Munger system for dealing with reality is to have multiple models in the head, and then run reality against multiple models." — BRK 1998 CNBC
+- **EBITDA-led reasoning stacks nonsense on nonsense until it becomes market standard:** "using a measure that you know is nonsense, and then piling additional reasoning on that false assumption" — BRK 1998 CNBC
+- **Good businesses throw repeated easy decisions; bad businesses force painful, doubtful capital calls:** "the good business just throws up one easy decision after another, whereas the bad business gives you a horrible choice" — BRK 1998 CNBC
+- **Most large corporate acquisitions destroy buyer value despite exhaustive process; patience and seller prefe…:** "maybe two-thirds of the time, it's a terrible deal for the buying corporation" — BRK 2002 CNBC
+- **Liquid public equity markets periodically behave as Ponzi schemes in whole or by sector, complicating predi…:** "a general liquid market for common stocks creates, from time to time, either in sectors of the market or in the whole market, a Ponzi scheme." — BRK 2002 CNBC
+- **Investment banking culture deteriorated when "can you sell it" replaced customer-safety screening; fair ack…:** "Can you sell it is the moral test. That is not an adequate test for investment banking." — BRK 2002 CNBC
+- **Real competence includes knowing where competence ends; otherwise it was not real competence:** "it wouldn't be much of a competence if you didn't know its boundary." — BRK 2002 CNBC
+- **Wisdom method: pick extreme examples and ask what in hell is going on—State Farm as model:** "what in hell is going on here — (laughter) — that is the way to wisdom in this world." — BRK 1997 CNBC
+- **Academic risk-adjusted return metrics should be ignored, not mastered:** "my best advice to all of you would be to totally ignore this development." — BRK 1997 CNBC
+- **Investing is always quality versus price; aim to receive more quality than you pay for:** "the trick is to get more quality than you're paying for in the price." — BRK 1998 CNBC
+

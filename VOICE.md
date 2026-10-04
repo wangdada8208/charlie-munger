@@ -374,3 +374,15 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 
 125. "I think the current scene is obscene." — BRK 2001 CNBC — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
 
+## Incremental 2026-10-05 (BRK CNBC 1996–1998 + 2002)
+
+126. "much of what is taught in modern corporate finance courses is twaddle." — BRK 1996 CNBC — https://buffett.cnbc.com/video/1996/05/06/morning-session---1996-berkshire-hathaway-annual-meeting.html
+127. "It's not modest, it's arrogant." — BRK 1997 CNBC — https://buffett.cnbc.com/video/1997/05/05/morning-session---1997-berkshire-hathaway-annual-meeting.html
+128. "we tried to make fewer of them." — BRK 1998 CNBC — https://buffett.cnbc.com/video/1998/05/04/morning-session---1998-berkshire-hathaway-annual-meeting.html
+129. "when we keep drowning in this torrent of cash which we have to reinvest?" — BRK 1998 CNBC — https://buffett.cnbc.com/video/1998/05/04/morning-session---1998-berkshire-hathaway-annual-meeting.html
+130. "Whatever you think you know about technology, I think I know less." — BRK 1998 CNBC — https://buffett.cnbc.com/video/1998/05/04/morning-session---1998-berkshire-hathaway-annual-meeting.html
+131. "Can you sell it is the moral test. That is not an adequate test for investment banking." — BRK 2002 CNBC — https://buffett.cnbc.com/video/2002/05/04/morning-session---2002-berkshire-hathaway-annual-meeting.html
+132. "And now we'll spend three hours examining all our stupid blunders and how much we've blown." — BRK 1998 CNBC — https://buffett.cnbc.com/video/1998/05/04/morning-session---1998-berkshire-hathaway-annual-meeting.html
+133. "I haven't bought any new underwear in a long time and therefore I'm inappropriately attired." — BRK 2002 CNBC — https://buffett.cnbc.com/video/2002/05/04/morning-session---2002-berkshire-hathaway-annual-meeting.html
+134. "waiting for a chance to employ — (laughter) — 2 percent of your assets." — BRK 1998 CNBC — https://buffett.cnbc.com/video/1998/05/04/morning-session---1998-berkshire-hathaway-annual-meeting.html
+

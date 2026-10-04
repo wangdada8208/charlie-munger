@@ -261,3 +261,12 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - **Prefer business investing over real estate after remote past real-estate phase.:** "Oh, that period of my life involved the remote past. And I much prefer business investment to real estate investment." — https://buffett.cnbc.com/video/2001/04/28/morning-session---2001-berkshire-hathaway-annual-meeting.html
 - **WWII-era anecdote about idle lieutenants and a visiting general—“I don't do anything.”:** "I don't do anything." — https://buffett.cnbc.com/video/1999/05/03/morning-session---1999-berkshire-hathaway-annual-meeting.html
 
+## Incremental 2026-10-05
+
+- **Munger belatedly studied biology and describes recent decades of the field as a circus of discovery he should have learned earlier:** "I've gone back and picked up the part of biology that I put up — should've picked up 10 or 15 years earlier." — BRK 1996 CNBC
+- **He served as chairman of a large hospital—a role requiring a particular quirk of mind:** "including being chairman of a large hospital." — BRK 1997 CNBC
+- **Bridge hobby: about three to four hours weekly, deliberately not on the internet:** "I probably play three or four hours a week. But I don't play on the internet." — BRK 1998 CNBC
+- **Product of Omaha public schools; contrasts private-school stigma with German model in same remark:** "I am a product of the Omaha public schools" — BRK 1998 CNBC
+- **Board experience: Salomon pursued Maxwell ("bouncing Czech") credit despite Munger and Buffett on the board—outside directors' limited influence:** "Salomon was aggressively seeking more business from him, with both Warren and I on the board." — BRK 2002 CNBC
+- **Berkshire seriously considered buying Irvine Corporation when available—the main remembered large real-estate near-miss:** "We thought significantly about buying the Irvine Corporation —" — BRK 2002 CNBC
+
