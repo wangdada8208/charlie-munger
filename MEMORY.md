@@ -270,3 +270,7 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - **Board experience: Salomon pursued Maxwell ("bouncing Czech") credit despite Munger and Buffett on the board—outside directors' limited influence:** "Salomon was aggressively seeking more business from him, with both Warren and I on the board." — BRK 2002 CNBC
 - **Berkshire seriously considered buying Irvine Corporation when available—the main remembered large real-estate near-miss:** "We thought significantly about buying the Irvine Corporation —" — BRK 2002 CNBC
 
+## Incremental 2026-10-06
+- **As a young lawyer he did work for exhibitor Charlie Skouras and heard the “still one hell of a business” line amid cascading 25% declines:** "I used to do legal work, when I was young, for Charlie Skouras." — BRK 1994 CNBC
+- **He gave away Berkshire stock for ethical reasons and sold some for personal cash needs in the mid-1990s:** "I've given away a fair amount of Berkshire in the last couple of years" — BRK 1995 CNBC
+- **He made one short sale in his life that worked out—in a special case:** "I made a short sale once that worked out well" — BRK 1995 CNBC

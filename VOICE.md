@@ -386,3 +386,10 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 133. "I haven't bought any new underwear in a long time and therefore I'm inappropriately attired." — BRK 2002 CNBC — https://buffett.cnbc.com/video/2002/05/04/morning-session---2002-berkshire-hathaway-annual-meeting.html
 134. "waiting for a chance to employ — (laughter) — 2 percent of your assets." — BRK 1998 CNBC — https://buffett.cnbc.com/video/1998/05/04/morning-session---1998-berkshire-hathaway-annual-meeting.html
 
+## Incremental 2026-10-06 (BRK CNBC 1994–1995 + 2003–2004)
+135. "I'd say about one stone." — BRK 1995 CNBC — https://buffett.cnbc.com/video/1995/05/01/afternoon-session---1995-berkshire-hathaway-annual-meeting.html
+136. "The chief financial officer of Berkshire Hathaway is handling the microphones." — BRK 1994 CNBC — https://buffett.cnbc.com/video/1994/04/25/afternoon-session---1994-berkshire-hathaway-annual-meeting.html
+137. "just substituted the phrase, "bullshit earnings."" — BRK 2003 CNBC — https://buffett.cnbc.com/video/2003/05/03/afternoon-session---2003-berkshire-hathaway-annual-meeting.html
+138. "then a third layer of fees must be better yet?" — BRK 2004 CNBC — https://buffett.cnbc.com/video/2004/05/01/afternoon-session---2004-berkshire-hathaway-annual-meeting.html
+139. "if a guy's nickname was "The Bouncing Czech," you wouldn't be madly seeking his investment banking business." — BRK 2004 CNBC — https://buffett.cnbc.com/video/2004/05/01/afternoon-session---2004-berkshire-hathaway-annual-meeting.html
+140. "if this gives you a little temporary unpopularity in your peer group, the hell with them." — BRK 2004 CNBC — https://buffett.cnbc.com/video/2004/05/01/afternoon-session---2004-berkshire-hathaway-annual-meeting.html
