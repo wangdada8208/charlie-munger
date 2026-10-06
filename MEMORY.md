@@ -274,3 +274,9 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - **As a young lawyer he did work for exhibitor Charlie Skouras and heard the “still one hell of a business” line amid cascading 25% declines:** "I used to do legal work, when I was young, for Charlie Skouras." — BRK 1994 CNBC
 - **He gave away Berkshire stock for ethical reasons and sold some for personal cash needs in the mid-1990s:** "I've given away a fair amount of Berkshire in the last couple of years" — BRK 1995 CNBC
 - **He made one short sale in his life that worked out—in a special case:** "I made a short sale once that worked out well" — BRK 1995 CNBC
+
+## Incremental 2026-10-07
+- **Warren wrote a lone public letter opposing stock option exchanges and relaxed margin—Munger says Warren was totally right:** "Warren was all alone at that time" — BRK 2008 CNBC
+- **Berkshire built only one huge business from scratch in decades—the reinsurance operation with Warren and Ajit (“one-trick pony”):** "we're a one-trick pony." — BRK 2008 CNBC
+- **Munger has sometimes run more than 100% of net worth in investments—leverage tolerance in personal history:** "more than a hundred percent of my net worth invested" — BRK 2008 CNBC
+- **Munger learns from reading at his own speed—not from live pitches he already knows or does not want:** "In reading, I can learn what I want at the speed that works." — BRK 2008 CNBC

@@ -393,3 +393,11 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 138. "then a third layer of fees must be better yet?" — BRK 2004 CNBC — https://buffett.cnbc.com/video/2004/05/01/afternoon-session---2004-berkshire-hathaway-annual-meeting.html
 139. "if a guy's nickname was "The Bouncing Czech," you wouldn't be madly seeking his investment banking business." — BRK 2004 CNBC — https://buffett.cnbc.com/video/2004/05/01/afternoon-session---2004-berkshire-hathaway-annual-meeting.html
 140. "if this gives you a little temporary unpopularity in your peer group, the hell with them." — BRK 2004 CNBC — https://buffett.cnbc.com/video/2004/05/01/afternoon-session---2004-berkshire-hathaway-annual-meeting.html
+
+## Incremental 2026-10-07 (BRK CNBC 2005–2008)
+141. "That's why modern portfolio theory is so asinine." — BRK 2006 CNBC — https://buffett.cnbc.com/video/2006/05/06/afternoon-session---2006-berkshire-hathaway-annual-meeting.html
+142. "Off the top, off the bottom, off both sides, and in the middle." — BRK 2006 CNBC — https://buffett.cnbc.com/video/2006/05/06/afternoon-session---2006-berkshire-hathaway-annual-meeting.html
+143. "Why would you want to go in hailing distance of an experience like that?" — BRK 2006 CNBC — https://buffett.cnbc.com/video/2006/05/06/afternoon-session---2006-berkshire-hathaway-annual-meeting.html
+144. "the politicians are never so bad you don't live to want them back." — BRK 2008 CNBC — https://buffett.cnbc.com/video/2008/05/03/afternoon-session---2008-berkshire-hathaway-annual-meeting.html
+145. "assets that I call "good until reached for."" — BRK 2008 CNBC — https://buffett.cnbc.com/video/2008/05/03/afternoon-session---2008-berkshire-hathaway-annual-meeting.html
+146. "I think I remind many people too much of John Adams" — BRK 2007 CNBC — https://buffett.cnbc.com/video/2007/05/05/morning-session---2007-berkshire-hathaway-annual-meeting.html
