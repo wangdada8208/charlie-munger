@@ -280,3 +280,8 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - **Berkshire built only one huge business from scratch in decades—the reinsurance operation with Warren and Ajit (“one-trick pony”):** "we're a one-trick pony." — BRK 2008 CNBC
 - **Munger has sometimes run more than 100% of net worth in investments—leverage tolerance in personal history:** "more than a hundred percent of my net worth invested" — BRK 2008 CNBC
 - **Munger learns from reading at his own speed—not from live pitches he already knows or does not want:** "In reading, I can learn what I want at the speed that works." — BRK 2008 CNBC
+
+## Incremental 2026-10-08 (BRK CNBC 2009–2012)
+- **Raised in Omaha remembering two-cent stamps and five-cent hamburgers—lifetime inflation witness:** "the two-cent first class stamp and the five-cent hamburger" — BRK 2009 CNBC
+- **Childhood Omaha Club curiosity—father explained prosperity via dead-horse rendering with no competition:** "He gathers up and renders dead horses" — BRK 2010 CNBC
+- **Drove latest BYD electric car around the block Tuesday before 2012 meeting—flabbergasted at improvement pace:** "I was flabbergasted at how much improved that car was" — BRK 2012 CNBC

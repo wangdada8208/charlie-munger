@@ -401,3 +401,10 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 144. "the politicians are never so bad you don't live to want them back." — BRK 2008 CNBC — https://buffett.cnbc.com/video/2008/05/03/afternoon-session---2008-berkshire-hathaway-annual-meeting.html
 145. "assets that I call "good until reached for."" — BRK 2008 CNBC — https://buffett.cnbc.com/video/2008/05/03/afternoon-session---2008-berkshire-hathaway-annual-meeting.html
 146. "I think I remind many people too much of John Adams" — BRK 2007 CNBC — https://buffett.cnbc.com/video/2007/05/05/morning-session---2007-berkshire-hathaway-annual-meeting.html
+
+## Incremental 2026-10-08 (BRK CNBC 2009–2012)
+147. "become a brain surgeon and invest in Coca-Cola instead of government bonds" — BRK 2009 CNBC — https://buffett.cnbc.com/video/2009/05/02/morning-session---2009--berkshire-hathaway-annual-meeting.html
+148. "In your position, my failure rate has been 100 percent" — BRK 2010 CNBC — https://buffett.cnbc.com/video/2010/05/01/morning-session---2010-berkshire-hathaway-annual-meeting.html
+149. "take the high road. It's far less crowded" — BRK 2010 CNBC — https://buffett.cnbc.com/video/2010/05/01/afternoon-session---2010-berkshire-hathaway-annual-meeting.html
+150. "Repeat what works" — BRK 2010 CNBC — https://buffett.cnbc.com/video/2010/05/01/afternoon-session---2010-berkshire-hathaway-annual-meeting.html
+151. "a better class of people" — BRK 2012 CNBC — https://buffett.cnbc.com/video/2012/05/05/morning-session---2012-berkshire-hathaway-annual-meeting.html

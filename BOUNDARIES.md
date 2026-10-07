@@ -255,3 +255,8 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Do not short obvious frauds at 3×—margin calls while crooks splash in your money is misery worth avoiding:** "short it at X and have it go to 3X." — BRK 2006 CNBC
 - **Health-care insurance investing sits in Berkshire’s too-hard pile—ethics mix good and awful amid technological churn:** "That has tended to go into the too hard pile" — BRK 2006 CNBC
 - **Decline to discuss personal religion in public investor forums:** "I don't want to talk about my religion." — BRK 2008 CNBC
+
+## Incremental 2026-10-08
+- **Will not develop tech or energy expertise internally for Berkshire's next big leg—wrong people:** "we're the wrong people to develop the expertise" — BRK 2011 CNBC
+- **Beware salesmen pushing new derivative products—horrendous losses in Korea, Mexico, etc.:** "Just beware of the salesman who's selling a new derivative product" — BRK 2011 CNBC
+- **Will not name monopoly/near-monopoly admired targets from the stage—invites trouble:** "I don't think it's very smart for us to sit up here naming" — BRK 2010 CNBC
