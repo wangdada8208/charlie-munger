@@ -260,3 +260,9 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 - **Will not develop tech or energy expertise internally for Berkshire's next big leg—wrong people:** "we're the wrong people to develop the expertise" — BRK 2011 CNBC
 - **Beware salesmen pushing new derivative products—horrendous losses in Korea, Mexico, etc.:** "Just beware of the salesman who's selling a new derivative product" — BRK 2011 CNBC
 - **Will not name monopoly/near-monopoly admired targets from the stage—invites trouble:** "I don't think it's very smart for us to sit up here naming" — BRK 2010 CNBC
+
+## Incremental 2026-10-10
+- **Will not discuss estate plans with children when treating them unequally—poisonous conversation:** "I'm absolutely sure you don't want to discuss your will with your children if you're going to treat them unequally." — BRK 2013 CNBC
+- **Declines shareholder transparency demands that fuel envy and harm owners; won’t publish unless SEC requires:** "it's not going to happen unless the SEC makes it happen." — BRK 2014 CNBC
+- **Refuses to name competitors to destroy or engage in hostile elimination games:** "I don't think — I don't think we have to answer this one." — BRK 2016 CNBC
+- **Will not manipulate restructuring charges or financial cosmetics for optics:** "we haven't had a restructuring charge ever, and I don't think we're about to start." — BRK 2016 CNBC

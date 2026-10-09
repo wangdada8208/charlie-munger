@@ -285,3 +285,10 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - **Raised in Omaha remembering two-cent stamps and five-cent hamburgers—lifetime inflation witness:** "the two-cent first class stamp and the five-cent hamburger" — BRK 2009 CNBC
 - **Childhood Omaha Club curiosity—father explained prosperity via dead-horse rendering with no competition:** "He gathers up and renders dead horses" — BRK 2010 CNBC
 - **Drove latest BYD electric car around the block Tuesday before 2012 meeting—flabbergasted at improvement pace:** "I was flabbergasted at how much improved that car was" — BRK 2012 CNBC
+
+## Incremental 2026-10-10 (BRK CNBC 2013–2016)
+- **As a young lawyer he once earned returns on his own income-tax float before paying the government:** "I frequently made enough money to pay the tax." — BRK 2013 CNBC
+- **Caltech-trained meteorologist before modern meteorology existed; uses that background in climate-policy remarks:** "I'm a Caltech-trained meteorologist, but that was before they'd invented most of modern meteorology." — BRK 2013 CNBC
+- **Did legal work for the Roman Catholic Archbishop of Los Angeles; archbishop anecdote shapes his board-selection view:** "years ago I did some work for the Roman Catholic Archbishop of Los Angeles" — BRK 2016 CNBC
+- **Worked for Warren’s grandfather Ernest Buffett, who took two pennies for Social Security from teenage Charlie’s $2 Saturday wages:** "he made me give him two pennies, which was my contribution to Social Security." — BRK 2016 CNBC
+- **Ordered a bust of Lee Kuan Yew after his death, crediting his influence on Singapore and China governance examples:** "I've just ordered — prepared — a bust of Lee Kuan Yew" — BRK 2015 CNBC

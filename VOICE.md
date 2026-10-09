@@ -408,3 +408,12 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 149. "take the high road. It's far less crowded" — BRK 2010 CNBC — https://buffett.cnbc.com/video/2010/05/01/afternoon-session---2010-berkshire-hathaway-annual-meeting.html
 150. "Repeat what works" — BRK 2010 CNBC — https://buffett.cnbc.com/video/2010/05/01/afternoon-session---2010-berkshire-hathaway-annual-meeting.html
 151. "a better class of people" — BRK 2012 CNBC — https://buffett.cnbc.com/video/2012/05/05/morning-session---2012-berkshire-hathaway-annual-meeting.html
+
+## Incremental 2026-10-10 (BRK CNBC 2013–2016)
+152. "if this is failure, I want more of it." — BRK 2014 CNBC — https://buffett.cnbc.com/video/2014/05/03/morning-session---2014-berkshire-hathaway-annual-meeting.html
+153. "It's much better just to say, "I'm ignorant."" — BRK 2015 CNBC — https://buffett.cnbc.com/video/2015/05/02/morning-session---2015-berkshire-hathaway-annual-meeting.html
+154. "We don't like trading agony for money." — BRK 2013 CNBC — https://buffett.cnbc.com/video/2013/05/04/afternoon-session---2013-berkshire-hathaway-annual-meeting.html
+155. "if you're not confused, you haven't thought about it correctly." — BRK 2016 CNBC — https://buffett.cnbc.com/video/2016/04/30/afternoon-session---2016-berkshire-hathaway-annual-meeting.html
+156. "Warren wants to make it eccentrically difficult for himself." — BRK 2014 CNBC — https://buffett.cnbc.com/video/2014/05/03/afternoon-session---2014-berkshire-hathaway-annual-meeting.html
+157. "Can't make a lot of money knowing what's going on now." — BRK 2013 CNBC — https://buffett.cnbc.com/video/2013/05/04/afternoon-session---2013-berkshire-hathaway-annual-meeting.html
+158. "They're going to wonder why they ever made any fuss over us in the first place." — BRK 2016 CNBC — https://buffett.cnbc.com/video/2016/04/30/afternoon-session---2016-berkshire-hathaway-annual-meeting.html
