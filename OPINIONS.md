@@ -841,3 +841,33 @@ Derived only from attributed Munger quotes in longform sources. When uncertain, 
 - **Dumb incentive systems produce dumb outcomes; crisis-era bank accounting that accrued fictional profits on gamier loans was literally insane:** "you get what you reward for. So, if you have a dumb incentive system, you get dumb outcomes." — BRK 2016 CNBC
 - **Unable people generally cannot be fixed; able people can do more—forcing Berkshire’s trust-heavy people judgment if you have wits:** "the unable people by and large you can't fix." — BRK 2016 CNBC
 - **Early retail failures inoculated Berkshire against later internet retail pain; GEICO gained enormously online:** "we failed so thoroughly in retailing when we were young that we pretty well avoided the worst troubles when we were old." — BRK 2016 CNBC
+
+## Incremental 2026-10-14 (BRK CNBC 2017–2019, 2021)
+- **Prefer careful selection of people given power and a culture of trust over piling on compliance departments as the main fix for misbehavior:** "being more careful in whom we pick to have power" — BRK 2017 CNBC
+- **Each new capital allocator without long experience is like rolling dice; Berkshire’s edge includes decades of blended learning decisions:** "it's like rolling the dice" — BRK 2017 CNBC
+- **Many competitors chase brilliance; Berkshire tries to stay rational—a large advantage especially when gambling:** "we're just trying to stay rational" — BRK 2017 CNBC
+- **The investment climate is tougher—more competition, affluence, and finance obsession—so margins of safety are smaller than in the “shooting fish in a barrel” era:** "like shooting fish in a barrel" — BRK 2017 CNBC
+- **Whole-company buying is fiercely competitive versus shadow-banking LBO buyers; Berkshire wins a niche of owners who refuse dress-up-for-resale sales:** "don't want it just dressed up for resale" — BRK 2017 CNBC
+- **Contempt for widespread executive-pay mumbo-jumbo threatens capitalism itself—killing the golden goose if pay arrangements breed broad contempt:** "that's like killing the golden goose" — BRK 2017 CNBC
+- **The investing world for 2-and-20 managers is a morass of wrong incentives, crazy reporting, and delusion—net losers for many late-arriving LPs:** "a morass of wrong incentives, crazy reporting" — BRK 2017 CNBC
+- **Quality businesses now require paying up far more than in Berkshire’s early bargain era:** "you pay up now a lot more than we used to" — BRK 2017 CNBC
+- **Chinese equities have looked cheaper than the U.S.; Berkshire stays opportunistic without rigid market rules:** "the Chinese stock market is cheaper than the American market" — BRK 2017 CNBC
+- **Mark-to-market insurance equities trapped in a high-tax shell can make falling marketable securities plus rising operating value a rational preference:** "like it when our marketable securities go down" — BRK 2017 CNBC
+- **Berkshire would not have bought ISCAR or Precision Castparts a decade earlier—proof they keep expanding what they can wisely own:** "never have bought Precision Castparts if it had come along 10 years earlier" — BRK 2017 CNBC
+- **“EBITDA” as earnings is dishonorable leasing-broker math; worse when business schools normalize it:** "Nobody in his right mind would think that depreciation is not an expense." — BRK 2017 CNBC
+- **No workable formula for intrinsic value—mix factors; if gap isn’t attractive, move on (Costco at low multiple as example):** "if the gap between value and price is not attractive" — BRK 2018 CNBC
+- **Corporate acquisition sprees averaged destroy value; many firms’ best use of cash is repurchases when nothing beats buying their own stock—except manipulative buybacks to prop price:** "buy in their own stock, and nothing as advantageous" — BRK 2018 CNBC
+- **Newspaper decline was faster than expected partly because founders loved papers and local-monopoly civic role—emotional forecast error:** "we both love newspapers and are — and have considered them so important" — BRK 2018 CNBC
+- **Ben Graham’s cigar-butt era faded; long-lived investors must morph toward better businesses and keep revising conclusions:** "buy the better companies when they were underpriced" — BRK 2018 CNBC
+- **Corporate-finance teaching often peddles balderdash because formulas make satisfying classroom exercises—“physics envy” false precision hurts judgment:** "what I call "physics envy."" — BRK 2018 CNBC
+- **American investors under-allocate to China because it looks hard from Omaha—yet that is where they should look:** "American investors are missing China" — BRK 2018 CNBC
+- **Ted Weschler and Todd Combs add younger eyes that remove age-related ignorance at headquarters beyond their own portfolios:** "looking at the world with the aid of some younger eyes" — BRK 2018 CNBC
+- **Saw Google’s power in Berkshire’s own ad results but sat idle—Apple later as partial atonement:** "Maybe Apple was atonement" — BRK 2019 CNBC
+- **Casualty insurance is easy-looking cash-in-advance bookkeeping but mediocre or dangerous unless you are far above average—Berkshire’s edge is skill, not the industry:** "It's a mediocre business for most people" — BRK 2019 CNBC
+- **Delayed gratification is largely inborn—Berkshire identifies it, not trains it:** "we identify it. We don't train it in." — BRK 2019 CNBC
+- **Kraft Heinz / 3G arc—serial wins then one overpriced finale—is normal when young men chase quick riches; push good ideas to wretched excess:** "paid a little too much for the last acquisition" — BRK 2019 CNBC
+- **Large cash balances are acceptable for Berkshire—watch Harvard’s crisis overcommitment as anti-model:** "a sin to be a little strong on cash" — BRK 2019 CNBC
+- **LBO competitors use others’ money with upside-only fee skew—hard for Berkshire to match prices:** "buying with somebody else's money, and they get part of the upside" — BRK 2019 CNBC
+- **Concentrated portfolios of a few known stocks can work; finance professors’ diversification dogma is not mandatory for skilled holders:** "don't think you need a portfolio of 50 stocks" — BRK 2019 CNBC
+- **Repurchases are moral when fair to existing owners; pumping price with buybacks is deeply immoral and critics are “bonkers.”:** "repurchasing stock because it's a fair thing to do" — BRK 2021 CNBC
+- **Extreme decentralization with subsidiary authority lets Berkshire stay manageable at scale; Greg Abel will keep the culture:** "Greg will keep the culture" — BRK 2021 CNBC

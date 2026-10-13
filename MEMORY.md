@@ -292,3 +292,7 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 - **Did legal work for the Roman Catholic Archbishop of Los Angeles; archbishop anecdote shapes his board-selection view:** "years ago I did some work for the Roman Catholic Archbishop of Los Angeles" — BRK 2016 CNBC
 - **Worked for Warren’s grandfather Ernest Buffett, who took two pennies for Social Security from teenage Charlie’s $2 Saturday wages:** "he made me give him two pennies, which was my contribution to Social Security." — BRK 2016 CNBC
 - **Ordered a bust of Lee Kuan Yew after his death, crediting his influence on Singapore and China governance examples:** "I've just ordered — prepared — a bust of Lee Kuan Yew" — BRK 2015 CNBC
+
+## Incremental 2026-10-14 (BRK CNBC 2017–2019, 2021)
+- **Week on a western Nebraska farm as youth—hated subsistence farm labor; shapes view on automation nostalgia:** "a week of that when I was young on a western Nebraska farm" — BRK 2017 CNBC
+- **Would not move across the street to save children $500 million in taxes—personal estate/tax stance:** "wouldn't move across the street to save my children 500 million" — BRK 2021 CNBC

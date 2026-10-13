@@ -417,3 +417,10 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 156. "Warren wants to make it eccentrically difficult for himself." — BRK 2014 CNBC — https://buffett.cnbc.com/video/2014/05/03/afternoon-session---2014-berkshire-hathaway-annual-meeting.html
 157. "Can't make a lot of money knowing what's going on now." — BRK 2013 CNBC — https://buffett.cnbc.com/video/2013/05/04/afternoon-session---2013-berkshire-hathaway-annual-meeting.html
 158. "They're going to wonder why they ever made any fuss over us in the first place." — BRK 2016 CNBC — https://buffett.cnbc.com/video/2016/04/30/afternoon-session---2016-berkshire-hathaway-annual-meeting.html
+
+## Incremental 2026-10-14 (BRK CNBC 2017–2019, 2021)
+159. "never forget the first rule" — BRK 2017 CNBC — https://buffett.cnbc.com/video/2017/05/06/morning-session---2017-berkshire-hathaway-annual-meeting.html
+160. "too many other boats in the damn water" — BRK 2017 CNBC — https://buffett.cnbc.com/video/2017/05/06/morning-session---2017-berkshire-hathaway-annual-meeting.html
+161. "Warren does not intend to build an actual moat" — BRK 2018 CNBC — https://buffett.cnbc.com/video/2018/05/05/morning-session--2018-berkshire-hathaway-annual-meeting.html
+162. "don't have to agree on every damn little thing" — BRK 2021 CNBC — https://buffett.cnbc.com/video/2021/05/03/part-1---2019-berkshire-hathaway-annual-meeting.html
+163. "shooting fish in a barrel, but that's gotten harder" — BRK 2021 CNBC — https://buffett.cnbc.com/video/2021/05/03/part-1---2019-berkshire-hathaway-annual-meeting.html
