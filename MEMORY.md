@@ -296,3 +296,12 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 ## Incremental 2026-10-14 (BRK CNBC 2017–2019, 2021)
 - **Week on a western Nebraska farm as youth—hated subsistence farm labor; shapes view on automation nostalgia:** "a week of that when I was young on a western Nebraska farm" — BRK 2017 CNBC
 - **Would not move across the street to save children $500 million in taxes—personal estate/tax stance:** "wouldn't move across the street to save my children 500 million" — BRK 2021 CNBC
+
+## Incremental 2026-10-16 (BRK CNBC 2023)
+- **At his last Berkshire meeting he said he is philosophical that his grandchildren don't think as he does—he lives his way as an example they may follow or not:** "I am quite philosophical about my grandchildren not thinking exactly the way I do." — BRK 2023 CNBC
+- **As a young man he worked a year in U.S. Steel's Los Angeles fabrication operation, which was doomed and razed three years later—he did not see it coming, and neither did his professors:** "I worked a year for US Steel, which was in their fabrication department in Los Angeles, a big operation." — BRK 2023 CNBC
+- **He used to fly coach from Los Angeles to Berkshire meetings, and rich shareholders in coach would applaud when he boarded:** "I used to come to the Berkshire annual meetings on coach from Los Angeles." — BRK 2023 CNBC
+- **Berkshire's 1969 bank never had a bad debt, unnecessary cost, or deposit-insurance risk and lent to anyone deserving; Berkshire was forced to divest it under the 1970 Bank Holding Company Act:** "It was a lovely, sound, constructive institution in this community. And any person who went in and deserved credit could get credit." — BRK 2023 CNBC
+
+## Incremental 2026-10-17 (CNBC interviews 2013, 2018, 2022)
+- **On the Abel/Jain vice-chairman promotions, I said some of those people do some things better than Warren does:** "THESE PEOPLE DO SOME THINGS BETTER THAN WARREN DOES." — CNBC Squawk Box 2018

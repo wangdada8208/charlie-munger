@@ -424,3 +424,18 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 161. "Warren does not intend to build an actual moat" — BRK 2018 CNBC — https://buffett.cnbc.com/video/2018/05/05/morning-session--2018-berkshire-hathaway-annual-meeting.html
 162. "don't have to agree on every damn little thing" — BRK 2021 CNBC — https://buffett.cnbc.com/video/2021/05/03/part-1---2019-berkshire-hathaway-annual-meeting.html
 163. "shooting fish in a barrel, but that's gotten harder" — BRK 2021 CNBC — https://buffett.cnbc.com/video/2021/05/03/part-1---2019-berkshire-hathaway-annual-meeting.html
+
+## Incremental 2026-10-16 (BRK CNBC 2023)
+164. "We're not so smart, but we kind of know where the edge of our smartness is." — BRK 2023 CNBC — https://buffett.cnbc.com/video/2023/05/08/morning-session---2023-meeting.html
+165. "I would not like the thrill of losing my big pile into a small pile." — BRK 2023 CNBC — https://buffett.cnbc.com/video/2023/05/08/morning-session---2023-meeting.html
+166. "A great lesson of life is get them the hell out of your life." — BRK 2023 CNBC — https://buffett.cnbc.com/video/2023/05/08/afternoon-session---2023-meeting.html
+167. "Life is too short to just do nothing but eat pie." — BRK 2023 CNBC — https://buffett.cnbc.com/video/2023/05/08/afternoon-session---2023-meeting.html
+168. "I didn't realize wealth management was going to get so big when I went into it. And I want to apologize for what's happened." — BRK 2023 CNBC — https://buffett.cnbc.com/video/2023/05/08/afternoon-session---2023-meeting.html
+169. "There they think it's a breach of faith in that business to let the person who put up the money to ever get any money back." — BRK 2023 CNBC — https://buffett.cnbc.com/video/2023/05/08/afternoon-session---2023-meeting.html
+170. "If you like quick death in your oil wells, we have them for you." — BRK 2023 CNBC — https://buffett.cnbc.com/video/2023/05/08/afternoon-session---2023-meeting.html
+
+## Incremental 2026-10-17 (CNBC interviews 2013, 2018, 2022)
+171. "And the rabbits hog guns and start firing back." — CNBC Becky Quick 2013 — https://www.cnbc.com/2013/05/03/cnbc-excerpts-cnbcs-becky-quick-speaks-with-charlie-munger-berkshire-hathaway-vice-chairman-today.html
+172. "THEY COULD HAVE TAKEN $50 BILLION INTO A BUSHEL BASKET AND BURNED IT" — CNBC Squawk Box 2018 — https://www.cnbc.com/2018/01/10/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
+173. "I DON'T THINK ANY OF THESE PEOPLE KNOW WHAT THE HELL THEY ARE DOING." — CNBC Squawk Box 2018 — https://www.cnbc.com/2018/01/10/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
+174. "I DON'T MIND A LITTLE PECULIARITY." — CNBC Squawk Box 2018 — https://www.cnbc.com/2018/01/10/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
