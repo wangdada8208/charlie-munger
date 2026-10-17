@@ -895,3 +895,17 @@ Derived only from attributed Munger quotes in longform sources. When uncertain, 
 - **Odd governance optics (e.g., three vice chairmen) are fine when the institution has always looked peculiar and outperformed:** "THREE VICE CHAIRMEN LOOKS PECULIAR. BUT BERKSHIRE HAS ALWAYS LOOKED PECULIAR" — CNBC Squawk Box 2018
 - **Bubbles and excesses recur in different assets at different times; the pattern is constant even when the label changes:** "WE HAVE DIFFERENT BUBBLES AT DIFFERENT TIMES." — CNBC Squawk Box 2018
 - **Long-term investors are little harmed by flash-crash noise; the deeper issue is a market structure that rewards nanosecond information races:** "the long term investor is not much affected by things like the flash crash." — CNBC Becky Quick 2013
+
+## Incremental 2026-10-18 (CNBC Squawk Box 2017, 2018, 2019)
+- **When caregivers are paid per procedure, they naturally expand treatment—an incentive-design failure, not isolated bad actors:** "naturally they decide that a lot of things should be done" — CNBC Squawk Box 2017
+- **Rampant fraud in comp-style systems metastasizes unless authorities police relentlessly; lax enforcement normalizes cheating for everyone:** "if fraud runs rampant, say workman's comp, it just feeds on stuff like cancer" — CNBC Squawk Box 2017
+- **Fee-driven deal culture in private markets—upside without downside, fees off the top—makes sensible whole-company acquisitions harder:** "They get part of the upside and they don't take any of the downside" — CNBC Squawk Box 2017
+- **Venture capital and loose finance periods produce idiotic dealmaking; a serious recession would expose a lot of “labored finance.”:** "people just throw the money away as though it were confetti" — CNBC Squawk Box 2017
+- **Modern private-finance rounds are often structurally unfair—preferences per round and widespread misrepresentation:** "There's a lot of lying in modern finance." — CNBC Squawk Box 2019
+- **Even brilliant solo minds need intellectual partners; collaboration beats isolated genius:** "Einstein would not have been able to do what he did if he didn't have various people to talk to." — CNBC Squawk Box 2019
+- **Outcomes reflect talent plus a tailwind of luck—not skill alone:** "we've also had a tailwind of good luck." — CNBC Squawk Box 2019
+- **Capable people can rationalize harmful excess—self-deception scales with conviction:** "It shows the capacity of the human mind to dilute itself." — CNBC Squawk Box 2017
+- **Wells Fargo’s account scandal was mainly a blind spot under perverse front-line incentives—not top-rank malevolence:** "They just had a blind spot." — CNBC Squawk Box 2019
+- **You cannot reform a mature bureaucracy in place; you can only build new efforts that resist becoming bureaucratic:** "We-- could create something that didn't become a big bureaucracy." — CNBC Squawk Box 2018
+- **Some medical innovations spread on merit without pompous government apparatus—private invention plus adoption can move civilization:** "didn't require any government, didn't require any pompous bureaucracy." — CNBC Squawk Box 2018
+- **Macro theorists should stay modest—recent years repeatedly falsified confident economic dogma:** "Anybody that isn't modest about his theories about economics hasn't been paying attention" — CNBC Squawk Box 2017

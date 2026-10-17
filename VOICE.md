@@ -439,3 +439,12 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 172. "THEY COULD HAVE TAKEN $50 BILLION INTO A BUSHEL BASKET AND BURNED IT" — CNBC Squawk Box 2018 — https://www.cnbc.com/2018/01/10/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
 173. "I DON'T THINK ANY OF THESE PEOPLE KNOW WHAT THE HELL THEY ARE DOING." — CNBC Squawk Box 2018 — https://www.cnbc.com/2018/01/10/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
 174. "I DON'T MIND A LITTLE PECULIARITY." — CNBC Squawk Box 2018 — https://www.cnbc.com/2018/01/10/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
+
+## Incremental 2026-10-18 (CNBC Squawk Box 2017, 2018, 2019)
+175. "nobody goes through a heart surgery better than a man who doesn't need it at all" — CNBC Squawk Box 2017 — https://www.cnbc.com/2017/05/09/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbc-percent-u2019s-becky-quick-on-percent-u201csquawk-box-percent-u201d.html
+176. "expensive and wrong is ridiculous." — CNBC Squawk Box 2018 — https://www.cnbc.com/2018/05/07/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
+177. "There're a million ways to be irrational." — CNBC Squawk Box 2018 — https://www.cnbc.com/2018/05/07/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
+178. "It's like the Catholic catechism." — CNBC Squawk Box 2018 — https://www.cnbc.com/2018/05/07/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
+179. "What kind of an idiot would go into textiles in New England?" — CNBC Squawk Box 2017 — https://www.cnbc.com/2017/05/09/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbc-percent-u2019s-becky-quick-on-percent-u201csquawk-box-percent-u201d.html
+180. "it's always a movie where you haven't seen the ending" — CNBC Squawk Box 2017 — https://www.cnbc.com/2017/05/09/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbc-percent-u2019s-becky-quick-on-percent-u201csquawk-box-percent-u201d.html
+181. "comfortable if everything goes down by 90%" — CNBC Squawk Box 2019 — https://www.cnbc.com/2019/05/06/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html

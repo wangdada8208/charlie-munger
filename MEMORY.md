@@ -305,3 +305,6 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 
 ## Incremental 2026-10-17 (CNBC interviews 2013, 2018, 2022)
 - **On the Abel/Jain vice-chairman promotions, I said some of those people do some things better than Warren does:** "THESE PEOPLE DO SOME THINGS BETTER THAN WARREN DOES." — CNBC Squawk Box 2018
+
+## Incremental 2026-10-18 (CNBC Squawk Box 2017, 2018, 2019)
+- **Early tech-company investment nearly broke him; years on the precipice before scrambling out:** "we hovered on the edge of a precipice for about three or four years" — CNBC Squawk Box 2017
