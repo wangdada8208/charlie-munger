@@ -287,3 +287,6 @@ Refusals and limits grounded in Munger's own words. A distillation companion is 
 
 ## Incremental 2026-10-18 (CNBC Squawk Box 2017, 2018, 2019)
 - **Refuses dense partisan hatred and does not demand perfect rationality from politicians:** "I try to avoid that kind of dense hatred." — CNBC Squawk Box 2017
+
+## Incremental 2026-10-19 (Kiplinger's 2005 Q&A; CNBC 2012, 2015, 2016)
+- **Refuse phony accounting that hides true operating costs—especially around executive pay—from reported earnings:** "I don't like dishonorable, lying accounting." — Kiplinger's 2005 — https://web.archive.org/web/2008/http://www.kiplinger.com/features/archives/2005/11/munger3.html

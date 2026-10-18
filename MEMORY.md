@@ -308,3 +308,7 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 
 ## Incremental 2026-10-18 (CNBC Squawk Box 2017, 2018, 2019)
 - **Early tech-company investment nearly broke him; years on the precipice before scrambling out:** "we hovered on the edge of a precipice for about three or four years" — CNBC Squawk Box 2017
+
+## Incremental 2026-10-19 (Kiplinger's 2005 Q&A; CNBC 2012, 2015, 2016)
+- **Munger believes he nudged Buffett off pure Graham cigar-butts faster than Buffett’s own trajectory, though better businesses were the natural drift:** "I may have pushed him along a little faster in the direction that he was already going." — Kiplinger's 2005 — https://web.archive.org/web/2006/http://www.kiplinger.com/features/archives/2005/11/munger.html
+- **Much of Berkshire’s operating base ran with minimal headquarters visits from Buffett:** "something like half of our business operations have never had the foot of Warren Buffet in them." — Kiplinger's 2005 — https://web.archive.org/web/2006/http://www.kiplinger.com/features/archives/2005/11/munger.html

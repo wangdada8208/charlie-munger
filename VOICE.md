@@ -448,3 +448,9 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 179. "What kind of an idiot would go into textiles in New England?" — CNBC Squawk Box 2017 — https://www.cnbc.com/2017/05/09/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbc-percent-u2019s-becky-quick-on-percent-u201csquawk-box-percent-u201d.html
 180. "it's always a movie where you haven't seen the ending" — CNBC Squawk Box 2017 — https://www.cnbc.com/2017/05/09/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbc-percent-u2019s-becky-quick-on-percent-u201csquawk-box-percent-u201d.html
 181. "comfortable if everything goes down by 90%" — CNBC Squawk Box 2019 — https://www.cnbc.com/2019/05/06/full-transcript-billionaire-investor-warren-buffett-speaks-with-cnbcs-becky-quick-on-squawk-box-today.html
+
+## Incremental 2026-10-19 (Kiplinger's 2005 Q&A; CNBC 2012, 2015, 2016)
+182. "Gold is a great thing to sew into your garments if you’re a Jewish family in Vienna in 1939," — CNBC 2012 — https://www.cnbc.com/2012/05/04/civilized-people-dont-buy-gold-berkshires-munger.html
+183. "When I see people going to some old flea-bitten old condo" — Kiplinger's 2005 — https://web.archive.org/web/2008/http://www.kiplinger.com/features/archives/2005/11/munger3.html
+184. "people go bananas, but that's capitalism." — Kiplinger's 2005 — https://web.archive.org/web/2008/http://www.kiplinger.com/features/archives/2005/11/munger3.html
+185. "Jeremy Siegel's numbers are total balderdash." — Kiplinger's 2005 — https://web.archive.org/web/2008/http://www.kiplinger.com/features/archives/2005/11/munger3.html
