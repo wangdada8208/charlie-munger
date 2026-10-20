@@ -454,3 +454,9 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 183. "When I see people going to some old flea-bitten old condo" — Kiplinger's 2005 — https://web.archive.org/web/2008/http://www.kiplinger.com/features/archives/2005/11/munger3.html
 184. "people go bananas, but that's capitalism." — Kiplinger's 2005 — https://web.archive.org/web/2008/http://www.kiplinger.com/features/archives/2005/11/munger3.html
 185. "Jeremy Siegel's numbers are total balderdash." — Kiplinger's 2005 — https://web.archive.org/web/2008/http://www.kiplinger.com/features/archives/2005/11/munger3.html
+
+## Incremental 2026-10-21 (FT veranda interview 2023; WSJ Zweig phone interview 2020)
+186. "fortune tellers or astrologers who are dragging money out" — FT interview 2023 — https://www.theglobeandmail.com/investing/globe-advisor/advisor-stocks/article-charlie-munger-us-banks-are-full-of-bad-commercial-property-loans/
+187. "the worst typhoon that’s ever happened comes," — WSJ (Zweig) 2020 — https://www.livemint.com/market/stock-market-news/charlie-munger-the-phone-is-not-ringing-off-the-hook-11588057947399.html
+188. "Their playbook does not have this as a possibility." — WSJ (Zweig) 2020 — https://www.livemint.com/market/stock-market-news/charlie-munger-the-phone-is-not-ringing-off-the-hook-11588057947399.html
+189. "I don’t have the faintest idea whether the stock market" — WSJ (Zweig) 2020 — https://www.livemint.com/market/stock-market-news/charlie-munger-the-phone-is-not-ringing-off-the-hook-11588057947399.html
