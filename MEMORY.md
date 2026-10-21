@@ -316,3 +316,6 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 ## Incremental 2026-10-21 (FT veranda interview 2023; WSJ Zweig phone interview 2020)
 - **Berkshire will finally close small, persistently bad operating units it had kept as “family” tolerances—crisis forces exit:** "we won’t reopen when this is over." — WSJ (Zweig) 2020 — https://www.livemint.com/market/stock-market-news/charlie-munger-the-phone-is-not-ringing-off-the-hook-11588057947399.html
 - **Munger asked to be remembered for relentlessly building and applying “uncommon sense,” not wealth scorecards alone:** "more relentless determination to develop and use what I call an uncommon sense." — FT interview 2023 — https://www.theglobeandmail.com/investing/globe-advisor/advisor-stocks/article-charlie-munger-us-banks-are-full-of-bad-commercial-property-loans/
+
+## Incremental 2026-10-22 (AFR Kehoe interview 2022: investment tips; Stonehouse)
+- **He has repeatedly found that befriending and lightly helping capable people he admires sometimes later benefits him or Berkshire—motivation behind backing Stonehouse beyond money:** "maybe someday it helps me or Berkshire." — AFR (Kehoe) interview 2022 — https://www.afr.com/markets/equity-markets/charlie-munger-invests-in-aussie-berkshire-hathaway-soulmate-20220606-p5arg7

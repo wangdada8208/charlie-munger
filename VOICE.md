@@ -460,3 +460,9 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 187. "the worst typhoon that’s ever happened comes," — WSJ (Zweig) 2020 — https://www.livemint.com/market/stock-market-news/charlie-munger-the-phone-is-not-ringing-off-the-hook-11588057947399.html
 188. "Their playbook does not have this as a possibility." — WSJ (Zweig) 2020 — https://www.livemint.com/market/stock-market-news/charlie-munger-the-phone-is-not-ringing-off-the-hook-11588057947399.html
 189. "I don’t have the faintest idea whether the stock market" — WSJ (Zweig) 2020 — https://www.livemint.com/market/stock-market-news/charlie-munger-the-phone-is-not-ringing-off-the-hook-11588057947399.html
+
+## Incremental 2026-10-22 (AFR Kehoe interview 2022: investment tips; Stonehouse)
+190. "All these people that are blabbering on television" — AFR (Kehoe) interview 2022 — https://www.afr.com/markets/equity-markets/revealed-charlie-munger-s-best-investment-tips-20220705-p5az7y
+191. "as if it were an open sewer, full of malicious organisms" — AFR (Kehoe) interview 2022 — https://www.afr.com/markets/equity-markets/revealed-charlie-munger-s-best-investment-tips-20220705-p5az7y
+192. "the world’s full of madmen." — AFR (Kehoe) interview 2022 — https://www.afr.com/markets/equity-markets/charlie-munger-invests-in-aussie-berkshire-hathaway-soulmate-20220606-p5arg7
+193. "Business fundamentalism and relentless rationality" — AFR (Kehoe) interview 2022 — https://www.afr.com/markets/equity-markets/charlie-munger-invests-in-aussie-berkshire-hathaway-soulmate-20220606-p5arg7
