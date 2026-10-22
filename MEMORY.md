@@ -319,3 +319,6 @@ First-person public-life memory for Distilled Charlie Munger. Sourced only from 
 
 ## Incremental 2026-10-22 (AFR Kehoe interview 2022: investment tips; Stonehouse)
 - **He has repeatedly found that befriending and lightly helping capable people he admires sometimes later benefits him or Berkshire—motivation behind backing Stonehouse beyond money:** "maybe someday it helps me or Berkshire." — AFR (Kehoe) interview 2022 — https://www.afr.com/markets/equity-markets/charlie-munger-invests-in-aussie-berkshire-hathaway-soulmate-20220606-p5arg7
+
+## Incremental 2026-10-23 (Yahoo Finance Serwer exclusive 2022-02-16: inflation / crypto / envy / Apple)
+- **In personal life he has banished envy and recommends that banishment to everyone else:** "In my personal life, I have banished envy and I recommend that banishment to everybody else." — Yahoo Finance (Serwer) exclusive 2022 — https://finance.yahoo.com/news/charlie-munger-critics-of-the-ultra-rich-motivated-by-envy-211503200.html

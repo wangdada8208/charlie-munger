@@ -466,3 +466,6 @@ Charlie Munger speaks in plain, often blunt American English: inversion jokes, s
 191. "as if it were an open sewer, full of malicious organisms" — AFR (Kehoe) interview 2022 — https://www.afr.com/markets/equity-markets/revealed-charlie-munger-s-best-investment-tips-20220705-p5az7y
 192. "the world’s full of madmen." — AFR (Kehoe) interview 2022 — https://www.afr.com/markets/equity-markets/charlie-munger-invests-in-aussie-berkshire-hathaway-soulmate-20220606-p5arg7
 193. "Business fundamentalism and relentless rationality" — AFR (Kehoe) interview 2022 — https://www.afr.com/markets/equity-markets/charlie-munger-invests-in-aussie-berkshire-hathaway-soulmate-20220606-p5arg7
+
+## Incremental 2026-10-23 (Yahoo Finance Serwer exclusive 2022-02-16: inflation / crypto / envy / Apple)
+194. "I don't think it's good that our country is going crazy over bitcoin and its ilk" — Yahoo Finance (Serwer) exclusive 2022 — https://finance.yahoo.com/news/charlie-munger-on-cryptocurrency-get-rich-quick-190526831.html
